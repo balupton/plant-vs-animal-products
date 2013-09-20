@@ -15,7 +15,7 @@ Animal production for our benefit is the major contributor to global warming, as
 
 
 ## Ethical
-### Meat, Fur, Leather, Science
+### Meat, Diary, Eggs, Fur, Leather, Science, Strays
 Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us. For more on the ethical aspect. [Help make the connection by watching the free on YouTube feature length film; Earthlings.](http://www.youtube.com/watch?v=ce4DJh-L7Ys)
 
 ### Milk
