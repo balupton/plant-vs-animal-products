@@ -3,6 +3,10 @@
 For those raising questions about the comparison between plant products and animal products (as you should! always important to make informed decisions), here is the criteria I used:
 
 
+## Goals
+This listing/comparison aims to be an argument proof factual listing of things going on, with the hopes remove all misinformation about plants vs animal products beyond and reasonable doubt. Constructive positive comments welcome below. If you have something negative to say, try and think of an educational way of putting it, rather than an ego stroking "I'm right, you're wrong way" that just causes unecessary defenses. Thanks!
+
+
 ## Ecology
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://www.vnv.org.au/site/htmfiles/eatinguptheworld.htm) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear](https://www.youtube.com/watch?v=es6U00LMmC4)
