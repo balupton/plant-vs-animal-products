@@ -22,7 +22,7 @@ Animal production for our benefit is the major contributor to global warming, as
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us. For more on the ethical aspect. [Help make the connection by watching the free on YouTube feature length film; Earthlings.](http://www.youtube.com/watch?v=ce4DJh-L7Ys)
 
-### Milk
+### Dairy, Milk, Cheese, Whey
 Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy. For more information, see [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](https://www.youtube.com/watch?v=es6U00LMmC4).
 
 ### Cheese
