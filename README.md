@@ -30,5 +30,5 @@ The major causes of death are those induced by animal products, the only way you
 
 
 ## License
-Licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
-Copyright 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
+Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
+<br/>Copyright &copy; 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
