@@ -29,7 +29,6 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 The major causes of death are those induced by animal products, the only way you get cholesterol is from animal products, adding onto this, it is now accepted (despite the populace's ignorance) that animal protein is toxic to the body. Fish also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health. For more information on all of this, see Forks over Knives (movie) - http://www.forksoverknives.com/ - and The China Study (book) http://www.thechinastudy.com/ - be sure to read the praise section to remove all doubt about this study's credibility - http://www.thechinastudy.com/the-china-study/praise/
 
 
----
-
+## License
 Licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
 Copyright 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
