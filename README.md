@@ -7,8 +7,11 @@ For those raising questions about the comparison between plant products and anim
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://www.vnv.org.au/site/htmfiles/eatinguptheworld.htm) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear](https://www.youtube.com/watch?v=es6U00LMmC4)
 
-### Fish & Seafood Specifically
-[This TED talk by narine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) exposes the extreme devastation the fishing industry is bringing to our world. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry.
+### Non-Organics and Fish & Seafood
+[This TED talk by narine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) exposes the extreme devastation the fishing industry as well as non-organic farming is bringing to our world. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
+
+### Non-Organics, Monocultures and Bees
+@TODO Talk about non-organic food, and monocultures are killing the bees.
 
 
 ## Ethical
@@ -24,9 +27,19 @@ Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stom
 ### Eggs
 Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens. [More info here.](http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the)
 
+### Honey, Beeswax, Pollon
+@TODO talk about the devestation farming bees has on them and why their enslavement does not justify your bee products, as well as the lack of evidence on their actual health benefits (just superstitions promoted by the bee industry)
+
 
 ## Health
-The major causes of death are those induced by animal products, the only way you get cholesterol is from animal products, adding onto this, it is now accepted (despite the populace's ignorance) that animal protein is toxic to the body. Fish also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health. For more information on all of this, see [Forks over Knives (movie)](http://www.forksoverknives.com/) and [The China Study (book)](http://www.thechinastudy.com/) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
+### Animal Protein (Meat, Dairy, Fish, etc)
+The major causes of death are those induced by animal products, the only way you get cholesterol is from animal products, adding onto this, it is now accepted (despite the populace's ignorance) that animal protein is toxic to the body. For more information on all of this, see [Forks over Knives (movie)](http://www.forksoverknives.com/) and [The China Study (book)](http://www.thechinastudy.com/) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
+
+### Seafood (including Fish and Krill Oils)
+Seafood also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health. Learn more about the devastations with [This TED talk by narine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) as well as [the supriority of Flaxseed Oil over Fish Oil in regards to health](http://www.udoerasmus.com/articles/udo/fish_oil.htm).
+
+## Alternatives
+@TODO Talk about how easy it is to get alternatives to everyday animal products.
 
 
 ## License
