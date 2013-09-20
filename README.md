@@ -7,7 +7,7 @@ For those raising questions about the comparison between plant products and anim
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://www.vnv.org.au/site/htmfiles/eatinguptheworld.htm) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear](https://www.youtube.com/watch?v=es6U00LMmC4)
 
-### Non-Organics and Fish & Seafood
+### Non-Organics and Seafood
 [This TED talk by narine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) exposes the extreme devastation the fishing industry as well as non-organic farming is bringing to our world. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
 ### Non-Organics, Monocultures and Bees
