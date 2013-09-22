@@ -44,6 +44,22 @@ The major causes of death are those induced by animal products, the only way you
 ### Seafood (including Fish and Krill Oils)
 Seafood also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health. Learn more about the devastations with [This TED talk by marine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) as well as [the supriority of Flaxseed Oil over Fish Oil in regards to health](http://www.udoerasmus.com/articles/udo/fish_oil.htm).
 
+
+## Coupouts
+
+### Ethical; We kill insects every day, why not animals?
+It is not about maximising our murder, but eliminating as much as we can. We do not require to enslave, torture and murder animals for their products and by-products, instead we can choose plant based alternatives.
+
+### Ethical; Living a good life, then killed well, is fine
+False. Can I use that rationale on you? or your child?
+
+### Ethical and Ecological; All this focus on animals detracts from more important issues
+False. Ignoring any issue, allows it to run rampant and opens the door for more exploitation. We must address all issues together, especially as they are all interelated. Think of it as building a boat, any cracks in it will make it leak, we must fix all cracks together to ensure the boat does the best it can.
+
+### Ethical and Ecological; We kill animals while making way for farming, so less crops the better right
+True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signifcantly.
+
+
 ## Alternatives
 @TODO Talk about how easy it is to get alternatives to everyday animal products.
 
