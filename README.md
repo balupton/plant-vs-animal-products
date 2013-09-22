@@ -51,7 +51,7 @@ Seafood also has the added benefit that our oceans are our toxic waste dumps, as
 It is not about maximising our murder, but eliminating as much as we can. We do not require to enslave, torture and murder animals for their products and by-products, instead we can choose plant based alternatives.
 
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
-False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate or enslave you into a life of producing by-products for me.
+False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate or enslave you into a life of producing by-products for me - this is enslavement, in the same way we use to enslave other humans, it is treating others as merely existing to be servants for ourselves. In regards to humans better than animals, it is defined as speciesm. Watch the Earthlings movie to make the connection why this is not okay. The other issue here, while non-vegans can all hope this is the case, it unfortunately isn't. Farmed animals live horrible lives of pain and misery, to only die excrutiating deaths time and time again. If you abide by eating animals, you simply cannot guarantee this arguments truth, and is it worth risking causing any suffering, when it is so easy to switch?
 
 ### Ethical and Ecological; All this focus on animals detracts from more important issues
 False. Ignoring any issue, allows it to run rampant and opens the door for more exploitation. We must address all issues together, especially as they are all interelated. Think of it as building a boat, any cracks in it will make it leak, we must fix all cracks together to ensure the boat does the best it can.
@@ -60,7 +60,7 @@ False. Ignoring any issue, allows it to run rampant and opens the door for more 
 True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signifcantly.
 
 ### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, egss, honey, etc)
-False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
+False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). It also completely avoids the health and ethical sides of farming animals - which are incredibly important - while as explained falls short of explaining the ecological aspect. We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
 
 
 ## Alternatives
