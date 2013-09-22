@@ -51,7 +51,7 @@ Seafood also has the added benefit that our oceans are our toxic waste dumps, as
 It is not about maximising our murder, but eliminating as much as we can. We do not require to enslave, torture and murder animals for their products and by-products, instead we can choose plant based alternatives.
 
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
-False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate.
+False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate or enslave you into a life of producing by-products for me.
 
 ### Ethical and Ecological; All this focus on animals detracts from more important issues
 False. Ignoring any issue, allows it to run rampant and opens the door for more exploitation. We must address all issues together, especially as they are all interelated. Think of it as building a boat, any cracks in it will make it leak, we must fix all cracks together to ensure the boat does the best it can.
