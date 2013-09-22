@@ -59,6 +59,9 @@ False. Ignoring any issue, allows it to run rampant and opens the door for more 
 ### Ethical and Ecological; We kill animals while making way for farming, so less crops the better right
 True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signifcantly.
 
+### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, egss, honey, etc)
+False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
+
 
 ## Alternatives
 @TODO Talk about how easy it is to get alternatives to everyday animal products.
