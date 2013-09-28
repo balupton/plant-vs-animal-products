@@ -67,6 +67,10 @@ False. It turns out that those who eliminate meat but continue to consume animal
 @TODO Talk about how easy it is to get alternatives to everyday animal products.
 
 
+## Videos
+http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782
+
+
 ## License
 Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
 <br/>Copyright &copy; 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
