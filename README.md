@@ -44,6 +44,9 @@ The major causes of death are those induced by animal products, the only way you
 ### Seafood (including Fish and Krill Oils)
 Seafood also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health. Learn more about the devastations with [This TED talk by marine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) as well as [the supriority of Flaxseed Oil over Fish Oil in regards to health](http://www.udoerasmus.com/articles/udo/fish_oil.htm).
 
+### Stress, Stimulants, and Over-Eatings
+40% of the average American's stress comes from poor nutrition, when stressed we don't get good quality sleep, and consume more stimulants (sugar, coffee, calories, etc) which is treating the symptoms. By improving nutrition (by eating nutrient-dense foods - not calorie dense foods) we reduce stress, sleep better, perform better, and live happier. [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well](http://youtu.be/Jqpjap8rewo).
+
 
 ## Coupouts
 
