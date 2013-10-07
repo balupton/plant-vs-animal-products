@@ -47,6 +47,9 @@ Seafood also has the added benefit that our oceans are our toxic waste dumps, as
 ### Stress, tiredness and over-eating
 40% of the average American's stress comes from poor nutrition, when stressed we don't get good quality sleep, and consume more stimulants (sugar, coffee, calories, etc) which is treating the symptoms. By improving nutrition (by eating nutrient-dense foods - not calorie dense foods) we reduce stress, sleep better, perform better, and live happier. [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well](http://youtu.be/Jqpjap8rewo).
 
+### Erectyle Dysfunction
+The first thing to go from eating animal products is your erections. [Watch Rip Esselstyn explain the connection with the TED Talk "Plant-strong & healthy living" at TEDxFremont](http://youtu.be/AAkEYcmCCCk?t=6m20s).
+
 
 ## Coupouts
 
