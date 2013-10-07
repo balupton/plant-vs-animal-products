@@ -74,7 +74,7 @@ False. It turns out that those who eliminate meat but continue to consume animal
 
 
 ## Videos
-http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782
+[Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782).
 
 
 ## License
