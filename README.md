@@ -73,7 +73,15 @@ As great a step as being vegetarian is, it isn't the end goal to stopping animal
 
 
 ## Alternatives
-@TODO Talk about how easy it is to get alternatives to everyday animal products.
+
+- http://www.frysvegetarian.co.za/
+- http://www.adaptt.org/shopping.html
+
+
+## Further Reading
+
+- http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries
+- http://humanemyth.org/
 
 
 ## Videos
