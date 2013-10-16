@@ -68,6 +68,9 @@ True, and that is the problem. The majority of our plant based food does not go 
 ### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, egss, honey, etc)
 False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). It also completely avoids the health and ethical sides of farming animals - which are incredibly important - while as explained falls short of explaining the ecological aspect. We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
 
+### Ethical; Being vegetarian is enough
+As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range doesn't matter. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meet industry. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" for the next step.
+
 
 ## Alternatives
 @TODO Talk about how easy it is to get alternatives to everyday animal products.
