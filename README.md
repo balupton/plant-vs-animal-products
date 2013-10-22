@@ -78,14 +78,10 @@ As great a step as being vegetarian is, it isn't the end goal to stopping animal
 - http://www.adaptt.org/shopping.html
 
 
-## Further Reading
+## Resources
 
-- http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries
-- http://humanemyth.org/
-
-
-## Videos
-[Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782).
+- [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
+- [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782).
 
 
 ## License
