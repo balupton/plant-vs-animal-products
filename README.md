@@ -15,7 +15,7 @@ Animal production for our benefit is the major contributor to global warming, as
 [This TED talk by marine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) exposes the extreme devastation caused by the fishing industry and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
 ### Non-Organics, Monocultures and Bees
-@TODO Talk about non-organic food, and monocultures are killing the bees.
+@TODO Talk about non-organic food, trademarked life and patent infrigement against farmers, and how monocultures are killing the bees.
 
 
 ## Ethical
@@ -59,49 +59,4 @@ It is not about maximising our murder, but eliminating as much as we can. We do 
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
 False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate or enslave you into a life of producing by-products for me - this is enslavement, in the same way we use to enslave other humans, it is treating others as merely existing to be servants for ourselves. In regards to humans better than animals, it is defined as speciesm. Watch the Earthlings movie to make the connection why this is not okay. The other issue here, while non-vegans can all hope this is the case, it unfortunately isn't. Farmed animals live horrible lives of pain and misery, to only die excrutiating deaths time and time again. If you abide by eating animals, you simply cannot guarantee this arguments truth, and is it worth risking causing any suffering, when it is so easy to switch?
 
-### Ethical and Ecological; All this focus on animals detracts from more important issues
-False. Ignoring any issue, allows it to run rampant and opens the door for more exploitation. We must address all issues together, especially as they are all interelated. Think of it as building a boat, any cracks in it will make it leak, we must fix all cracks together to ensure the boat does the best it can.
-
-### Ethical and Ecological; We kill animals while making way for farming, so less crops the better right
-True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signifcantly.
-
-### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, egss, honey, etc)
-False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). It also completely avoids the health and ethical sides of farming animals - which are incredibly important - while as explained falls short of explaining the ecological aspect. We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
-
-### Ethical; Being vegetarian is enough
-As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range doesn't matter. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meet industry. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" for the next step.
-
-### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
-This has been debunked, their just myths spread by the animal agrictulture industry to create FUD against their perceived threat of veganism against their establishment.
-
-In reality, eating only healthy of food (plants) if of course good for you and all you need, see:
-http://www.adaptt.org/veganism.html
-
-It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
-
-### Health; You need animal products to get B-12!
-This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for anybody whom don't supplement, vegans and non-vegans alike. A lot of vegans get their blood tests done, and never need to supplement in their life. Personally, I prefer to supplement to guarantee I get enough B-12. Better safe than sorry in my opinion.
-
-You can get B-12 from most daily foods (soy/oat/rice/almon milks), mock meats, etc that are fortified with B-12 and other vitamins. If you're particular area does not provide fortified foods, you can get B-12 from a under the tongue or tablet weekly or daily supplement.
-
-If you are concerned about B-12 and your journey to veganism, keep in mind that supplementation is still a much better alternative of obtaining adequate B-12 amounts than murdering and devouring our fellow people and their products to get an un-guaranteed amount of B-12 (and other vitamins) with a guaranteed amount of harmful fats, proteins, chemicals, etc — with this comparison in mind, it's clear to see vegan, even with supplementation, is better for your health, the environment, and the people within it.
-
-For more information see http://www.adaptt.org/veganism.html and http://www.vegansociety.com/lifestyle/nutrition/b12.aspx
-
-
-
-## Alternatives
-
-- http://www.frysvegetarian.co.za/
-- http://www.adaptt.org/shopping.html
-
-
-## Resources
-
-- [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
-- [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782).
-
-
-## License
-Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
-<br/>Copyright &copy; 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
+### Ethical and Ecological; All this focu
