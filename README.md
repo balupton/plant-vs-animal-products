@@ -72,7 +72,7 @@ False. It turns out that those who eliminate meat but continue to consume animal
 As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range doesn't matter. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meet industry. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" for the next step.
 
 ### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
-This has been debunked, their just myths spread by the animal agrictulture industry to create FUD against their perceived threat of veganism against their establishment.
+False. This has been debunked, they are just myths spread by the animal agrictulture industry to create FUD against their perceived threat of veganism against their establishment.
 
 In reality, eating only healthy of food (plants) if of course good for you and all you need, see:
 http://www.adaptt.org/veganism.html
@@ -80,7 +80,7 @@ http://www.adaptt.org/veganism.html
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
 
 ### Health; You need animal products to get B-12!
-This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for anybody whom don't supplement, vegans and non-vegans alike. A lot of vegans get their blood tests done, and never need to supplement in their life. Personally, I prefer to supplement to guarantee I get enough B-12. Better safe than sorry in my opinion.
+False. This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for anybody whom don't supplement, vegans and non-vegans alike. A lot of vegans get their blood tests done, and never need to supplement in their life. Personally, I prefer to supplement to guarantee I get enough B-12. Better safe than sorry in my opinion.
 
 You can get B-12 from most daily foods (soy/oat/rice/almon milks), mock meats, etc that are fortified with B-12 and other vitamins. If you're particular area does not provide fortified foods, you can get B-12 from a under the tongue or tablet weekly or daily supplement.
 
