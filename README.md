@@ -79,6 +79,16 @@ http://www.adaptt.org/veganism.html
 
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
 
+### Health; You need animal products to get B-12!
+This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for some vegans, and for some it isn't, just like how it is an issue for some meat, dairy, eggs, etc eaters, and not for others.
+
+You can get B-12 from most daily foods (soy/oat/rice/almon milks), mock meats, etc that are fortified with B-12 and other vitamins. If you're particular area does not provide fortified foods, you can get B-12 from a under the tongue or tablet weekly or daily supplement.
+
+A lot of vegans get their blood tests done, and never need to supplement at all. Personally, I prefer to supplement — better safe than sorry in my opinion. Supplementation is a much better alternative than murdering and devouring our fellow people and their products to get an un-guaranteed amount of B-12 (and other vitamins) with a guaranteed amount of harmful fats, proteins, chemicals, etc — with this comparison in mind, it's clear to see vegan, even with supplementation, is better for your health, the environment, and the people within it.
+
+For more information see http://www.adaptt.org/veganism.html and http://www.vegansociety.com/lifestyle/nutrition/b12.aspx
+
+
 
 ## Alternatives
 
