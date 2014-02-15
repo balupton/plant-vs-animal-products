@@ -8,17 +8,24 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 
 ## Ecology
+This is just a small summary, for a complete listing of ecology related resources I've found, see [here](http://balupton.tumblr.com/tagged/ecology).
+
 ### All Animals
-Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://www.vnv.org.au/site/htmfiles/eatinguptheworld.htm) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](https://www.youtube.com/watch?v=es6U00LMmC4)
+Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://www.vnv.org.au/site/htmfiles/eatinguptheworld.htm), [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](https://www.youtube.com/watch?v=es6U00LMmC4)
 
 ### Non-Organics and Seafood
 [This TED talk by marine ecologist Jeremy Jackson](http://www.youtube.com/watch?v=u0VHC1-DO_8) exposes the extreme devastation caused by the fishing industry and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
+
+### Gentically Modified
+Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for genetic farmers that are trying to grow good for the environment, and our health, crops and animals. Learn more about this by watching the documentry [Food Inc.](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
 ### Non-Organics, Monocultures and Bees
 @TODO Talk about non-organic food, trademarked life and patent infrigement against farmers, and how monocultures are killing the bees.
 
 
 ## Ethical
+This is just a small summary, for a complete listing of ethical related resources I've found, see [here](http://balupton.tumblr.com/tagged/ethics).
+
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us. [Help make the connection by watching the free on YouTube feature length film; Earthlings.](http://www.youtube.com/watch?v=ce4DJh-L7Ys)
 
@@ -36,6 +43,8 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 
 
 ## Health
+This is just a small summary, for a complete listing of health related resources I've found, see [here](http://balupton.tumblr.com/tagged/health).
+
 ### Animal Protein (Meat, Dairy, Fish, etc)
 The major causes of death are those induced by animal products, the only way you get non-trivial amounts of cholesterol is from animal products, adding onto this, it is now accepted (despite the populace's ignorance) that animal protein is toxic to the body. For more information on all of this, see [Forks over Knives (movie)](http://www.forksoverknives.com/) and [The China Study (book)](http://www.thechinastudy.com/) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
 
