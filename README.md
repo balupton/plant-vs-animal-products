@@ -17,7 +17,7 @@ Animal production for our benefit is the major contributor to global warming, as
 [This TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) exposes the extreme devastation caused by the fishing industry and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
 ### Gentically Modified
-Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for genetic farmers that are trying to grow good for the environment, and our health, crops and animals. Learn more about this by watching the documentry [Food Inc.](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
+Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food. Learn more about this by watching the documentry [Food Inc.](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
 ### Non-Organics, Monocultures and Bees
 @TODO Talk about non-organic food, trademarked life and patent infrigement against farmers, and how monocultures are killing the bees.
