@@ -74,7 +74,7 @@ False. Ignoring any issue, allows it to run rampant and opens the door for more 
 ### Ethical and Ecological; We kill animals while making way for farming, so less crops the better right
 True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signifcantly.
 
-### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, egss, honey, etc)
+### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, eggs, honey, etc)
 False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). It also completely avoids the health and ethical sides of farming animals - which are incredibly important - while as explained falls short of explaining the ecological aspect. We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
 
 ### Ethical; Being vegetarian is enough
@@ -99,16 +99,18 @@ For more information see http://www.adaptt.org/veganism.html and http://www.vega
 
 
 
-## Alternatives
-
-- http://www.frysvegetarian.co.za/
-- http://www.adaptt.org/shopping.html
-
-
 ## Resources
 
-- [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
-- [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782).
+- More facts and resources on animal vs plant products
+  - [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
+  - [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782)
+- More information on veganism and help on getting started
+  - http://www.veganeasy.org/
+  - http://vegankit.com/
+  - http://www.vegansociety.com/
+- Shopping
+  - http://www.frysvegetarian.co.za/
+  - http://www.adaptt.org/shopping.html
 
 
 ## License
