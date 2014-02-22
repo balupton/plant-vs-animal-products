@@ -45,8 +45,8 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 ## Health
 This is just a small summary, for a complete listing of health related resources I've found, see [here](http://balupton.tumblr.com/tagged/health).
 
-### Animal Protein (Meat, Dairy, Fish, etc)
-The major causes of death are those induced by animal products. It is now accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic dvantage. For more information on all of this, see [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary) and [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
+### Animal Products (Meat, Dairy, Fish, etc)
+The major causes of death are those induced by animal products. It is now accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage. For more information on all of this, see [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary) and [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
 
 @TODO talk about FUD around complete VS incomplete proteins.
 
