@@ -80,6 +80,11 @@ False. It turns out that those who eliminate meat but continue to consume animal
 ### Ethical; Being vegetarian is enough
 As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range doesn't matter. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meet industry. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" for the next step.
 
+
+### General; Meat is delish, plants are bland
+Meat without plants to flavour it, is pretty bland... If you do enjoy the texture and taste of animal-based meat, you can get plant-based meats that taste and feel the same, but are good for your health, the environment, and the animals. See [Beyond Meat](http://beyondmeat.com/), [ADAAPT Shopping Guide](http://www.adaptt.org/shopping.html), and [Fry's Vegetarian](http://www.frysvegetarian.co.za/) for some great plant-based meats.
+
+
 ### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
 False. This has been debunked, they are just myths spread by the animal agrictulture industry to create FUD against their perceived threat of veganism against their establishment.
 
