@@ -60,7 +60,7 @@ Seafood also has the added benefit that our oceans are our toxic waste dumps, as
 The first thing to go from eating animal products is your erections. [Watch Rip Esselstyn explain the connection with the TED Talk "Plant-strong & healthy living" at TEDxFremont](http://youtu.be/AAkEYcmCCCk?t=6m26s).
 
 
-## Coupouts
+## FAQ
 
 ### Ethical; We kill insects every day, why not animals?
 It is not about maximising our murder, but eliminating as much as we can. We do not require to enslave, torture and murder animals for their products and by-products, instead we can choose plant based alternatives.
