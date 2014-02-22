@@ -82,7 +82,7 @@ As great a step as being vegetarian is, it isn't the end goal to stopping animal
 
 
 ### General; Meat is delish, plants are bland
-Meat without plants to flavour it, is pretty bland... If you do enjoy the texture and taste of animal-based meat, you can get plant-based meats that taste and feel the same, but are good for your health, the environment, and the animals. See [Beyond Meat](http://beyondmeat.com/), [ADAAPT Shopping Guide](http://www.adaptt.org/shopping.html), and [Fry's Vegetarian](http://www.frysvegetarian.co.za/) for some great plant-based meats.
+Animal-based meat without plants and spices to flavour it, is pretty bland... Think about it, when was the last time you had a 5 star steak without a sauce, seasoning, or condiments added by either yourself, the chef, or the manufacturer? However, if you do enjoy the texture and taste of animal-based meat, you can get plant-based meats that taste and feel the same, but are good for your health, the environment, and the animals. See [Beyond Meat](http://beyondmeat.com/), [ADAPTT Shopping Guide](http://www.adaptt.org/shopping.html), and [Fry's Vegetarian](http://www.frysvegetarian.co.za/) for some great plant-based meats.
 
 
 ### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
@@ -92,6 +92,7 @@ In reality, eating only healthy of food (plants) if of course good for you and a
 http://www.adaptt.org/veganism.html
 
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
+
 
 ### Health; You need animal products to get B-12!
 False. This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for anybody whom don't supplement, vegans and non-vegans alike. A lot of vegans get their blood tests done, and never need to supplement in their life. Personally, I prefer to supplement to guarantee I get enough B-12. Better safe than sorry in my opinion.
