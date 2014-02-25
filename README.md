@@ -11,7 +11,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 This is just a small summary, for a complete listing of ecology related resources I've found, see [here](http://balupton.tumblr.com/tagged/ecology).
 
 ### All Animals
-Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of), [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of), [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
 
 ### Non-Organics and Seafood
 [This TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) exposes the extreme devastation caused by the fishing industry and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
@@ -113,6 +113,7 @@ For more information see http://www.adaptt.org/veganism.html and http://www.vega
   - [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
   - [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782)
 - More information on veganism and help on getting started
+  - http://www.the30dayveganchallenge.com/
   - http://www.veganeasy.org/
   - http://vegankit.com/
   - http://www.vegansociety.com/
