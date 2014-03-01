@@ -135,6 +135,7 @@ For more information see http://www.adaptt.org/veganism.html and http://www.vega
   - http://vegankit.com/
   - http://www.vegansociety.com/
   - http://thriveforward.com/ personalised training and diet regime based on your needs and desires
+  - http://fullyraw.com/
 - Shopping
   - http://www.frysvegetarian.co.za/
   - http://www.adaptt.org/shopping.html
