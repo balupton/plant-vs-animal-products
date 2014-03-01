@@ -130,10 +130,11 @@ For more information see http://www.adaptt.org/veganism.html and http://www.vega
   - [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
   - [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782)
 - More information on veganism and help on getting started
-  - http://www.the30dayveganchallenge.com/
+  - http://www.the30dayveganchallenge.com/ videos, recipe ideas, information, and support for going vegan
   - http://www.veganeasy.org/
   - http://vegankit.com/
   - http://www.vegansociety.com/
+  - http://thriveforward.com/ personalised training and diet regime based on your needs and desires
 - Shopping
   - http://www.frysvegetarian.co.za/
   - http://www.adaptt.org/shopping.html
