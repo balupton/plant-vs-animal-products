@@ -96,6 +96,16 @@ http://www.adaptt.org/veganism.html
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
 
 
+### Health; I can offset animal products with a workout!
+Great stuff offsetting the calories!
+
+For offsetting the rest of the reasons for feeling bad about eating animal products, such as the ethical, ecological and other health aspects, what's your plan?
+
+Maybe planting a tree and resurrecting an animal could work?
+
+In the end, it's far easier and more effective to simply optimise with only good activities, rather than merely offseting (cancelling out) bad activities with good activities...
+
+
 ### Health; You need animal products to get B-12!
 False. This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for anybody whom don't supplement, vegans and non-vegans alike. A lot of vegans get their blood tests done, and never need to supplement in their life. Personally, I prefer to supplement to guarantee I get enough B-12. Better safe than sorry in my opinion.
 
