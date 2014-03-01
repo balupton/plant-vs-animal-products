@@ -97,7 +97,7 @@ It is also worth reminding us, that animal products are processed foods. Instead
 
 
 ### Ethical; I could never kill my own animal, that's why I let someone else do it
-If you can't even work up the courage to kill an animal for your own use, it may help put to perspective, how difficult it is for the animal to be killed for your own use — something that is still incredibly  for the animal, regardless of who's killing it.
+If you can't even work up the courage to kill an animal for your own use, it may help put into perspective how insanely difficult it is from the animal's viewpoint to have their own life taken away at your order... something which remains petrifying for them, regardless of who it is that is murdering them.
 
 
 ### Health; I can offset animal products with a workout!
