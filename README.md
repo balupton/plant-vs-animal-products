@@ -135,7 +135,7 @@ For more information see http://www.adaptt.org/veganism.html and http://www.vega
   - http://www.veganeasy.org/ great comprehensive resource and challenge on everything to do with, and for going vegan
   - http://vegankit.com/ comprehensive resource on veganism that refers you to other sources, largely ethical based
   - http://www.vegansociety.com/ comprehensive resource and challenge on everything to do with, and for going vegan
-  - http://fullyraw.com/ resources, videos, and challenges for going raw vegan (I'm not, but you certainly can)
+  - http://fullyraw.com/ resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
 - Shopping
   - http://www.frysvegetarian.co.za/
   - http://www.adaptt.org/shopping.html
