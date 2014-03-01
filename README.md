@@ -96,6 +96,10 @@ http://www.adaptt.org/veganism.html
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
 
 
+### Ethical; I could never kill my own animal, that's why I let someone else do it
+If you can't even work up the courage to kill an animal for your own use, it may help put to perspective, how difficult it is for the animal to be killed for your own use — something that is still incredibly  for the animal, regardless of who's killing it.
+
+
 ### Health; I can offset animal products with a workout!
 Great stuff offsetting the calories!
 
