@@ -11,13 +11,20 @@ This listing/comparison aims to be an argument proof factual listing of things g
 This is just a small summary, for a complete listing of ecology related resources I've found, see [here](http://balupton.tumblr.com/tagged/ecology).
 
 ### All Animals
-Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment. More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of), [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
+
+More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of), [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+
 
 ### Non-Organics and Seafood
 [This TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) exposes the extreme devastation caused by the fishing industry and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
+
 ### Gentically Modified
-Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food. Learn more about this by watching the documentry [Food Inc.](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
+Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food.
+
+Learn more about this by watching the documentry [Food Inc.](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
+
 
 ### Non-Organics, Monocultures and Bees
 @TODO Talk about non-organic food, trademarked life and patent infrigement against farmers, and how monocultures are killing the bees.
