@@ -56,7 +56,9 @@ A lot of people believe that fishing is the kindest form of hunting, but this si
 This is just a small summary, for a complete listing of health related resources I've found, see [here](http://balupton.tumblr.com/tagged/health).
 
 ### Animal Products (Meat, Dairy, Fish, etc)
-The major causes of death are those induced by animal products. It is now accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage. For more information on all of this, see [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary) and [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
+Animal products cause 15/16 of the leading causes of death. It is even accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage.
+
+For more information on all of this, see [Uprooting the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary) and [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
 
 @TODO talk about FUD around complete VS incomplete proteins.
 
@@ -85,7 +87,7 @@ It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493
 
 
 ### General; The disadvantaged can only afford junk food
-Incorrect in ALL aspects. Plants provide [more bang for the buck](http://nutritionfacts.org/2013/11/26/best-nutrition-bang-for-your-buck/) in nutrition, quantity, weight, everything except calories when compared to animal products, event despite the [majority of animal subsidies in place](http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/). In fact, if you also weigh in how much the medicine it costs to not die from the health issues of animal products, plant based eating is way cheaper. And finally, when you consider [animal products cause 15/16 of the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), it's a no-brainer when you factor in the cost of your own life.
+Incorrect in ALL aspects. Plants provide [more bang for the buck](http://balupton.tumblr.com/post/79551721462/best-nutrition-bang-for-your-buck-nutritionfacts-org) in nutrition, quantity, weight, everything except calories when compared to animal products, event despite the [majority of animal subsidies in place](http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/). In fact, if you also weigh in how much the medicine it costs to not die from the health issues of animal products, plant based eating is way cheaper. And finally, when you consider [animal products cause 15/16 of the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), it's a no-brainer when you factor in the cost of your own life.
 
 TLDR; If you spend the exact same amount on plants, you'll still get more & eat healthier, won't require meds, and live longer.
 
