@@ -84,6 +84,12 @@ We can't stop our harm, but we can certainly minimise it.
 It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [minimising it](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products (which kills more plants and animals), instead we can choose plant based alternatives (which saves more plants and animals).
 
 
+### General; The disadvantaged can only afford junk food
+Incorrect in ALL aspects. Plants provide [more bang for the buck](http://nutritionfacts.org/2013/11/26/best-nutrition-bang-for-your-buck/) in nutrition, quantity, weight, everything except calories when compared to animal products, event despite the [majority of animal subsidies in place](http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/). In fact, if you also weigh in how much the medicine it costs to not die from the health issues of animal products, plant based eating is way cheaper. And finally, when you consider [animal products cause 15/16 of the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), it's a no-brainer when you factor in the cost of your own life.
+
+TLDR; Spend what you can afford on plants, you'll still get more & eat healthier, won't require meds, and live longer.
+
+
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
 False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate or enslave you into a life of producing by-products for me - this is enslavement, in the same way we use to enslave other humans, it is treating others as merely existing to be servants for ourselves. In regards to humans better than animals, it is defined as speciesm. Watch the Earthlings movie to make the connection why this is not okay. The other issue here, while non-vegans can all hope this is the case, it unfortunately isn't. Farmed animals live horrible lives of pain and misery, to only die excrutiating deaths time and time again. If you abide by eating animals, you simply cannot guarantee this arguments truth, and is it worth risking causing any suffering, when it is so easy to switch?
 
