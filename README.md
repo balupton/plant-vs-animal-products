@@ -72,7 +72,15 @@ The first thing to go from eating animal products is your erections. [Watch Rip 
 
 ## FAQ
 
-### Ethical; We murder plants, why not animals?
+### Ethical; Murder is made up, we call things murder where it is convenient, no one has the right to life
+If I tried to put you on my bbq, you'd fight for your life. Same for animals.
+
+For plants, it requires our empathy to extend to the wellbeing of ecology, of the planet, of everything within it.
+
+We can't stop our harm, but we can certainly minimise it.
+
+
+### Ethical; We still murder plants, why not animals?
 It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [minimising it](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products (which kills more plants and animals), instead we can choose plant based alternatives (which saves more plants and animals).
 
 
