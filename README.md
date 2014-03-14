@@ -65,8 +65,9 @@ The first thing to go from eating animal products is your erections. [Watch Rip 
 
 ## FAQ
 
-### Ethical; We kill insects every day, why not animals?
-It is not about maximising our murder, but eliminating as much as we can. We do not require to enslave, torture and murder animals for their products and by-products, instead we can choose plant based alternatives.
+### Ethical; We kill things every day, why not animals?
+It is not about maximising our [murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [eliminating as much as we can](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products, instead we can choose plant based alternatives.
+
 
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
 False. Can I use that rationale on you? or your child? when I'm ready to have you on my plate or enslave you into a life of producing by-products for me - this is enslavement, in the same way we use to enslave other humans, it is treating others as merely existing to be servants for ourselves. In regards to humans better than animals, it is defined as speciesm. Watch the Earthlings movie to make the connection why this is not okay. The other issue here, while non-vegans can all hope this is the case, it unfortunately isn't. Farmed animals live horrible lives of pain and misery, to only die excrutiating deaths time and time again. If you abide by eating animals, you simply cannot guarantee this arguments truth, and is it worth risking causing any suffering, when it is so easy to switch?
