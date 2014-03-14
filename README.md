@@ -66,7 +66,7 @@ The first thing to go from eating animal products is your erections. [Watch Rip 
 ## FAQ
 
 ### Ethical; We murder plants, why not animals?
-It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [minimising it](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products (which kills more plants, insects, and animals), instead we can choose plant based alternatives (which saves more plants, insects, and animals).
+It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [minimising it](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products (which kills more plants and animals), instead we can choose plant based alternatives (which saves more plants and animals).
 
 
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
