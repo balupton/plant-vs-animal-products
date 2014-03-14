@@ -87,7 +87,7 @@ It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493
 ### General; The disadvantaged can only afford junk food
 Incorrect in ALL aspects. Plants provide [more bang for the buck](http://nutritionfacts.org/2013/11/26/best-nutrition-bang-for-your-buck/) in nutrition, quantity, weight, everything except calories when compared to animal products, event despite the [majority of animal subsidies in place](http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/). In fact, if you also weigh in how much the medicine it costs to not die from the health issues of animal products, plant based eating is way cheaper. And finally, when you consider [animal products cause 15/16 of the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), it's a no-brainer when you factor in the cost of your own life.
 
-TLDR; Spend what you can afford on plants, you'll still get more & eat healthier, won't require meds, and live longer.
+TLDR; If you spend the exact same amount on plants, you'll still get more & eat healthier, won't require meds, and live longer.
 
 
 ### Ethical; Living a good life, then killed when we're ready (not it), is fine
