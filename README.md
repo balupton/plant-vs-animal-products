@@ -38,8 +38,9 @@ Genetically modified foods can actually be patented by big corporations, this me
 [This is just a small summary, get the complete ethical listing.](http://balupton.tumblr.com/tagged/ethics)
 
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
-Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us.
+Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us. If you kill them, it is murder, and at the scales it is conducted, it is the world's largest holocaust, every single day.
 
+- [Watch the video that started the live export ban "Stories from Indonesia - Live Export Investigation" which made us realisae that non-human animals are people too](http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation)
 - [Watch the "Earthlings" documentry to realise the horror of the animal industry that we cause](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
 
 ### Dairy, Milk, Cheese, Whey
