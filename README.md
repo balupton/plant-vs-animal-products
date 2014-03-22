@@ -8,7 +8,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 
 ## Ecology
-[This is just a small summary, get the complete ecology listing.](http://balupton.tumblr.com/tagged/ecology).
+[This is just a small summary, get the complete ecology listing.](http://balupton.tumblr.com/tagged/ecology)
 
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
@@ -33,7 +33,7 @@ Genetically modified foods can actually be patented by big corporations, this me
 
 
 ## Ethical
-[This is just a small summary, get the complete ethical listing.](http://balupton.tumblr.com/tagged/ethics).
+[This is just a small summary, get the complete ethical listing.](http://balupton.tumblr.com/tagged/ethics)
 
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us.
@@ -43,13 +43,13 @@ Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fe
 ### Dairy, Milk, Cheese, Whey
 Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy.
 
-- [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky).
+- [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
 
 ### Cheese
 Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stomachs of calves (often once they have been slaughtered for meat produce).
 
 - [Read up on rennet on Wikipedia](http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia)
-- [If you can't give up cheese, then give up cruelty instead](http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty).
+- [If you can't give up cheese, then give up cruelty instead](http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty)
 
 ### Eggs
 Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens.
@@ -62,7 +62,7 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 ### Fish
 A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
 
-- For more information on the dangers of fishing, in all aspects, check out [Animal's Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php) on the subject.
+- [Animal's Australia's wealth of information on the extreme dangers of fishing](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
 
 
 ## Health
