@@ -13,9 +13,9 @@ This listing/comparison aims to be an argument proof factual listing of things g
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
 
-- [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of)
-- [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment)
-- [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+- [Watch the definitive talk "Sustainability and Food Choice: Why Eating Local, “Less” Meat, and Taking Baby Steps Won’t Work"](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
+- [Read the definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices"](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of)
+- [A fantastic and definitive summary of the science via "Veganism is the best way to help the environment"](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment)
 
 
 ### Non-Organics and Seafood
@@ -66,7 +66,7 @@ A lot of people believe that fishing is the kindest form of hunting, but this si
 
 
 ## Health
-[This is just a small summary, get the complete health listing.](http://balupton.tumblr.com/tagged/health).
+[This is just a small summary, get the complete health listing.](http://balupton.tumblr.com/tagged/health)
 
 ### Animal Products (Meat, Dairy, Fish, etc)
 Animal products cause 15/16 of the leading causes of death. It is even accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage.
