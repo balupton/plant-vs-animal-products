@@ -62,7 +62,7 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 ### Fish
 A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
 
-- [Animal's Australia's wealth of information on the extreme dangers of fishing](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
+- [Get the facts with Animal's Australia's wealth of information on fish hunting](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
 
 
 ## Health
