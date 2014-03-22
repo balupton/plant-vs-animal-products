@@ -65,7 +65,7 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 ### Fish
 A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
 
-- [Get the facts with Animal's Australia's wealth of information on fish hunting](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
+- [Get the facts on fish hunting via Animal's Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
 
 
 ## Health
@@ -74,9 +74,9 @@ A lot of people believe that fishing is the kindest form of hunting, but this si
 ### Animal Products (Meat, Dairy, Fish, etc)
 Animal products cause 15/16 of the leading causes of death. It is even accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage.
 
-- [Uprooting the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a)
-- [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary)
-- [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility
+- [Watch the definitive talk "Uprooting the leading causes of death" on how 15/16 of the leading causes of death are preventable on a plant-only diet](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a)
+- [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary)
+- [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison](http://balupton.tumblr.com/post/64770587806/the-china-study-book) — [doubtful? read the praise section](http://www.thechinastudy.com/the-china-study/praise/)
 
 @TODO talk about FUD around complete VS incomplete proteins.
 
