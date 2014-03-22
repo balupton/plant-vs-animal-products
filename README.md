@@ -13,19 +13,21 @@ This listing/comparison aims to be an argument proof factual listing of things g
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
 
-- [Watch the definitive talk "Sustainability and Food Choice: Why Eating Local, “Less” Meat, and Taking Baby Steps Won’t Work"](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
-- [Read the definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices"](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of)
-- [A fantastic and definitive summary of the science via "Veganism is the best way to help the environment"](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment)
+- [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
+- [Read this definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices" to realise the consequences](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of)
+- [Read this definitive summary "Veganism is the best way to help the environment" to get the science](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment)
 
 
 ### Non-Organics and Seafood
-[This TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) exposes the extreme devastation caused by the fishing industry and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
+The world's oceans are collapsing. Not their on the verge of collapse, or will collapse soon, but are actually collapsing NOW, all due to the desire for seasfood and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
+- [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) 
+- [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
 
 ### Gentically Modified
 Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food.
 
-- [Food Inc. Documentary](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
+- [Watch the "Food Inc." documentary to see the problems with GMOs](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
 
 ### Non-Organics, Monocultures and Bees
@@ -38,17 +40,17 @@ Genetically modified foods can actually be patented by big corporations, this me
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us.
 
-- [Make the connection by watching the free on YouTube feature length film; Earthlings.](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
+- [Watch the "Earthlings" documentry to realise the horror of the animal industry that we cause](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
 
 ### Dairy, Milk, Cheese, Whey
 Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy.
 
-- [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+- [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
 
 ### Cheese
 Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stomachs of calves (often once they have been slaughtered for meat produce).
 
-- [Read up on rennet on Wikipedia](http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia)
+- [Learn about rennet on Wikipedia](http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia)
 - [If you can't give up cheese, then give up cruelty instead](http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty)
 
 ### Eggs
