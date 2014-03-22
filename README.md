@@ -13,7 +13,9 @@ This is just a small summary, for a complete listing of ecology related resource
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
 
-More info via the free pamphlet [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of), [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment) and [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+- [Eating Up The World: The Environmental Consequences of Human Food Choices](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of)
+- [Why veganism is the best way to help the environment](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment)
+- [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
 
 
 ### Non-Organics and Seafood
@@ -23,7 +25,7 @@ More info via the free pamphlet [Eating Up The World: The Environmental Conseque
 ### Gentically Modified
 Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food.
 
-Learn more about this by watching the documentry [Food Inc.](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
+- [Food Inc. Documentary](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
 
 ### Non-Organics, Monocultures and Bees
@@ -34,22 +36,33 @@ Learn more about this by watching the documentry [Food Inc.](http://balupton.tum
 This is just a small summary, for a complete listing of ethical related resources I've found, see [here](http://balupton.tumblr.com/tagged/ethics).
 
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
-Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us. [Help make the connection by watching the free on YouTube feature length film; Earthlings.](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
+Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us.
+
+- [Make the connection by watching the free on YouTube feature length film; Earthlings.](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
 
 ### Dairy, Milk, Cheese, Whey
-Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy. For more information, see [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky).
+Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy.
+
+- [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky).
 
 ### Cheese
-Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stomachs of calves (often once they have been slaughtered for meat produce). [Read up on rennet on Wikipedia](http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia) and [if you can't give up cheese, then give up cruelty instead](http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty).
+Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stomachs of calves (often once they have been slaughtered for meat produce).
+
+- [Read up on rennet on Wikipedia](http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia)
+- [If you can't give up cheese, then give up cruelty instead](http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty).
 
 ### Eggs
-Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens. [More info here.](http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the)
+Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens.
+
+- [Watch the egg industry in action](http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the)
 
 ### Honey, Beeswax, Pollon
 @TODO talk about the devestation farming bees has on them and why their enslavement does not justify your bee products, as well as the lack of evidence on their actual health benefits (just superstitions promoted by the bee industry)
 
 ### Fish
-A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is. For more information on the dangers of fishing, in all aspects, check out [Animal's Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php) on the subject.
+A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
+
+- For more information on the dangers of fishing, in all aspects, check out [Animal's Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php) on the subject.
 
 
 ## Health
@@ -58,18 +71,27 @@ This is just a small summary, for a complete listing of health related resources
 ### Animal Products (Meat, Dairy, Fish, etc)
 Animal products cause 15/16 of the leading causes of death. It is even accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage.
 
-For more information on all of this, see [Uprooting the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary) and [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility.
+- [Uprooting the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a)
+- [Forks over Knives (movie)](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary)
+- [The China Study (book)](http://balupton.tumblr.com/post/64770587806/the-china-study-book) be sure to read the [praise section](http://www.thechinastudy.com/the-china-study/praise/) to remove all doubt about this study's credibility
 
 @TODO talk about FUD around complete VS incomplete proteins.
 
 ### Seafood (including Fish and Krill Oils)
-Seafood also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health. Learn more about the devastations with [This TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) as well as [the supriority of Flaxseed Oil over Fish Oil in regards to health](http://balupton.tumblr.com/post/64770655985/humans-turn-ala-udo-oil-to-epa-dha-fish-oil-faq).
+Seafood also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health.
+
+- [Watch this TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this)
+- [The supriority of Flaxseed Oil over Fish Oil in regards to health](http://balupton.tumblr.com/post/64770655985/humans-turn-ala-udo-oil-to-epa-dha-fish-oil-faq).
 
 ### Stress, tiredness and over-eating
-40% of the average American's stress comes from poor nutrition, when stressed we don't get good quality sleep, and consume more stimulants (sugar, coffee, calories, etc) which is treating the symptoms. By improving nutrition (by eating nutrient-dense foods - not calorie dense foods) we reduce stress, sleep better, perform better, and live happier. [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well](http://balupton.tumblr.com/post/64769601126/find-your-athletic-edge-brendan-brazier-at).
+40% of the average American's stress comes from poor nutrition, when stressed we don't get good quality sleep, and consume more stimulants (sugar, coffee, calories, etc) which is treating the symptoms. By improving nutrition (by eating nutrient-dense foods - not calorie dense foods) we reduce stress, sleep better, perform better, and live happier.
+
+- [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well](http://balupton.tumblr.com/post/64769601126/find-your-athletic-edge-brendan-brazier-at).
 
 ### Erectyle Dysfunction
-The first thing to go from eating animal products is your erections. [Watch Rip Esselstyn explain the connection with the TED Talk "Plant-strong & healthy living" at TEDxFremont](http://youtu.be/AAkEYcmCCCk?t=6m26s).
+The first thing to go from eating animal products is your erections.
+
+- [This TEDxFremont talk by Rip Esselstyn explains the connection with "Plant-strong & healthy living"](http://youtu.be/AAkEYcmCCCk?t=6m26s).
 
 
 ## FAQ
