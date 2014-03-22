@@ -11,7 +11,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 [This is just a small summary, get the complete ecology listing.](http://balupton.tumblr.com/tagged/ecology)
 
 ### All Animals
-Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
+Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). One cow takes 2 acres of land to raise and feed, that same land could grow enough food to feed a small village. Animal agriculture also produces a lot of feces and waste products, which then go into our air and water supply, creating new parasites that are wreaking havoc on our health, their health, and the environment.
 
 - [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
 - [Read this definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices" to realise the consequences](http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of)
