@@ -8,7 +8,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 
 ## Ecology
-This is just a small summary, for a complete listing of ecology related resources I've found, see [here](http://balupton.tumblr.com/tagged/ecology).
+[This is just a small summary, get the complete ecology listing.](http://balupton.tumblr.com/tagged/ecology).
 
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). Their excrements and waste products are also creating new parasites that are wreaking havoc on the environment.
@@ -33,7 +33,7 @@ Genetically modified foods can actually be patented by big corporations, this me
 
 
 ## Ethical
-This is just a small summary, for a complete listing of ethical related resources I've found, see [here](http://balupton.tumblr.com/tagged/ethics).
+[This is just a small summary, get the complete ethical listing.](http://balupton.tumblr.com/tagged/ethics).
 
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us.
@@ -66,7 +66,7 @@ A lot of people believe that fishing is the kindest form of hunting, but this si
 
 
 ## Health
-This is just a small summary, for a complete listing of health related resources I've found, see [here](http://balupton.tumblr.com/tagged/health).
+[This is just a small summary, get the complete health listing.](http://balupton.tumblr.com/tagged/health).
 
 ### Animal Products (Meat, Dairy, Fish, etc)
 Animal products cause 15/16 of the leading causes of death. It is even accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage.
