@@ -75,7 +75,7 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 ### Fish
 A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
 
-- [Get the facts on fish hunting via Animal's Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
+- [Get the facts on fish hunting via Animals Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
 
 
 ## Health
@@ -166,7 +166,7 @@ It is also worth reminding us, that animal products are processed foods. Instead
 
 
 ### Ethical; I could never kill my own animal, that's why I let someone else do it
-If you can't even work up the courage to kill an animal for your own use, it may help put into perspective how insanely difficult it is from the animal's viewpoint to have their own life taken away at your order... something which remains petrifying for them, regardless of who it is that is murdering them.
+If you can't even work up the courage to kill an animal for your own use, it may help put into perspective how insanely difficult it is from their point of view to have their own life taken away at your order... something which remains petrifying for them, regardless of who it is that is murdering them.
 
 
 ### Health; I can offset animal products with a workout!
