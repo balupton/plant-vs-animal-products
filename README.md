@@ -126,4 +126,74 @@ False. Can I use that rationale on you? or your child? when I'm ready to have yo
 False. Ignoring any issue, allows it to run rampant and opens the door for more exploitation. We must address all issues together, especially as they are all interelated. Think of it as building a boat, any cracks in it will make it leak, we must fix all cracks together to ensure the boat does the best it can.
 
 ### Ethical and Ecological; We kill animals while making way for farming, so less crops the better right
-True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signif
+True, and that is the problem. The majority of our plant based food does not go towards feeding ourselves, but feeding farmed animals instead - a highly inefficient process. If we all went vegan, we would not only be able to feed the entire world (ending poverty) with less land (consequently killing less animals, from farming, and eating) but also help to eliminate global warming and health problems signifcantly.
+
+### Ecological and Ethical; Cutting out meat eliminates most ecological downsides, so it is still okay to consume animal by-products (dairy, eggs, honey, etc)
+False. It turns out that those who eliminate meat but continue to consume animal by-products actually consume a lot more than usual, adding to the same (if not higher) ecological footprint. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it (see ethical copouts for arguments there). It also completely avoids the health and ethical sides of farming animals - which are incredibly important - while as explained falls short of explaining the ecological aspect. We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
+
+### Ethical; Being vegetarian is enough
+As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range doesn't matter. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meet industry. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" for the next step.
+
+
+### General; Meat is delish, plants are bland
+Animal-based meat without plants and spices to flavour it, is pretty bland... Think about it, when was the last time you had a 5 star steak without a sauce, seasoning, or condiments added by either yourself, the chef, or the manufacturer? What most people come to find is they actually enjoy the flavour of the plants and spices that are added, rather than the meat. However, if you do enjoy the texture and taste of animal-based meat, you can get plant-based meats that taste and feel the same, but are good for your health, the environment, and the animals. See [Beyond Meat](http://beyondmeat.com/), [ADAPTT Shopping Guide](http://www.adaptt.org/shopping.html), and [Fry's Vegetarian](http://www.frysvegetarian.co.za/) for some great plant-based meats.
+
+Meat also has a natural drug in it called hypoxanthine which functions much like MSG, that affects our brain to like it more and as an addiction. Meat also is incredibly acidic for the body to break down, making our body acidic, in response to this acidity, our body adjusts our digestion to be able to deal with such foods better, causing alkaine inducing foods such as plants to taste weird at first. Once the body alkalises, plants will taste amazing and animal products will taste foul. To speed this up, you can fast for 24 hours to reset your body. See [The Pleasure Trap](http://www.youtube.com/watch?v=jX2btaDOBK8) and http://www.nutrientrich.com/news-story/is-meat-addictive.html
+
+
+### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
+False. This has been debunked, they are just myths spread by the animal agrictulture industry to create FUD against their perceived threat of veganism against their establishment.
+
+In reality, eating only healthy of food (plants) if of course good for you and all you need, see:
+http://www.adaptt.org/veganism.html
+
+It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
+
+
+### Ethical; I could never kill my own animal, that's why I let someone else do it
+If you can't even work up the courage to kill an animal for your own use, it may help put into perspective how insanely difficult it is from the animal's viewpoint to have their own life taken away at your order... something which remains petrifying for them, regardless of who it is that is murdering them.
+
+
+### Health; I can offset animal products with a workout!
+Great stuff offsetting the calories!
+
+For offsetting the rest of the reasons for feeling bad about eating animal products, such as the ethical, ecological and other health aspects, what's your plan?
+
+Maybe planting a tree and resurrecting an animal could work?
+
+In the end, it's far easier and more effective to simply optimise with only good activities, rather than merely offseting (cancelling out) bad activities with good activities...
+
+
+### Health; You need animal products to get B-12!
+False. This is the same as the above argument, but specifically targetting vitamin B-12 due to it's prolific nature. Vitamin B-12 is an issue for anybody whom don't supplement, vegans and non-vegans alike. A lot of vegans get their blood tests done, and never need to supplement in their life. Personally, I prefer to supplement to guarantee I get enough B-12. Better safe than sorry in my opinion.
+
+You can get B-12 from most daily foods (soy/oat/rice/almon milks), mock meats, etc that are fortified with B-12 and other vitamins. If you're particular area does not provide fortified foods, you can get B-12 from a under the tongue or tablet weekly or daily supplement.
+
+If you are concerned about B-12 and your journey to veganism, keep in mind that supplementation is still a much better alternative of obtaining adequate B-12 amounts than murdering and devouring our fellow people and their products to get an un-guaranteed amount of B-12 (and other vitamins) with a guaranteed amount of harmful fats, proteins, chemicals, etc — with this comparison in mind, it's clear to see vegan, even with supplementation, is better for your health, the environment, and the people within it.
+
+For more information see http://www.adaptt.org/veganism.html and http://www.vegansociety.com/lifestyle/nutrition/b12.aspx
+
+
+
+## Resources
+
+- More facts and resources on animal vs plant products
+  - [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
+  - [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782)
+- More information on veganism and help on getting started
+  - http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos an amazing wealth of short convice videos of health facts
+  - http://thriveforward.com/ personalised training and diet regime based on your needs and desires
+  - http://www.the30dayveganchallenge.com/ challenge with daily videos, recipe ideas, and information
+  - http://www.veganeasy.org/ great comprehensive resource and challenge on everything to do with, and for going vegan
+  - http://vegankit.com/ comprehensive resource on veganism that refers you to other sources, largely ethical based
+  - http://www.vegansociety.com/ comprehensive resource and challenge on everything to do with, and for going vegan
+  - http://fullyraw.com/ resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
+  - http://balupton.tumblr.com/post/69881065444/veganism-a-truth-whose-time-has-come-a-response-to the most comprhensive listing of questions and answers I've ever found about a vegan lifestyle
+- Shopping
+  - http://www.frysvegetarian.co.za/
+  - http://www.adaptt.org/shopping.html
+
+
+## License
+Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/)
+<br/>Copyright &copy; 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
