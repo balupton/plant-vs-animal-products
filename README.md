@@ -1,4 +1,4 @@
-# The definitive comparison of plant versus animal products
+# A definitive comparison of plant vs animal products
 
 
 For those raising questions about the comparison between plant products and animal products (as you should! always important to make informed decisions), here is the criteria I used:
