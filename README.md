@@ -11,7 +11,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 ## Contents
 
 1. [Ecology](#ecology)
-1. [Ethics](#ethics)
+1. [Ethical](#ethical)
 1. [Health](#health)
 1. [Frequently Asked Questions](#faq)
 1. [Resources](#resources)
