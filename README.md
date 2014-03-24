@@ -4,7 +4,7 @@
 For those raising questions about the comparison between plant products and animal products (as you should! always important to make informed decisions), here is the criteria I used:
 
 
-## Goals
+## Goal
 This listing/comparison aims to be an argument proof factual listing of things going on, with the hopes remove all misinformation about plants vs animal products beyond and reasonable doubt. Constructive positive comments welcome. If you have something negative to say, try and think of an educational way of putting it, rather than an ego stroking "I'm right, you're wrong way" that just causes unecessary defenses. Thanks!
 
 
