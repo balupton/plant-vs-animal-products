@@ -124,7 +124,7 @@ It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493
 
 
 ### General; I like murdering people, I like the taste, it makes me feel important
-Unfortunately your [conspicous consumption](http://en.wikipedia.org/wiki/Conspicuous_consumption) is [ending the world](http://balupton.tumblr.com/post/80568628703/nasa-funded-study-industrial-civilisation-headed-for)... Which just makes yourself, and your buddies not look big and tall, but the losers taking everyone down with their [selfish](http://balupton.tumblr.com/post/79544841478/off-to-get-tied-up-malnutritioned-then-murdered) and [oppressive](http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation) ways — hardly a self-image that will get you places. Perhaps time to seriously reconsider what your actions (your purchases, your votes with your dollar) are saying about you?
+Unfortunately your [conspicous consumption](http://en.wikipedia.org/wiki/Conspicuous_consumption) is [ending the world](http://balupton.tumblr.com/post/80568628703/nasa-funded-study-industrial-civilisation-headed-for)... Is that [selfish](http://balupton.tumblr.com/post/79544841478/off-to-get-tied-up-malnutritioned-then-murdered) and [oppressive](http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation) image really the image you want to risk people having of you? Perhaps time to seriously consider what your actions (your purchases, your votes with your dollar) are saying about you?
 
 
 ### General; The disadvantaged can only afford junk food
