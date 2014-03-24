@@ -81,10 +81,12 @@ Animal products cause 15/16 of the leading causes of death. It is even accepted 
 @TODO talk about FUD around complete VS incomplete proteins.
 
 ### Seafood (including Fish and Krill Oils)
-Seafood also has the added benefit that our oceans are our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health.
+When you ask how do you get your DHA (Omega fatty acids) most people will say seafood. But it turns out that seafood will causes more brain damage than good. This is because seafood also has the detriment of our oceans being our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health.
 
-- [Watch this TED talk by marine ecologist Jeremy Jackson](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this)
-- [The supriority of Flaxseed Oil over Fish Oil in regards to health](http://balupton.tumblr.com/post/64770655985/humans-turn-ala-udo-oil-to-epa-dha-fish-oil-faq).
+- [Discover the science behind seafood causing more brain damage than it prevents](http://balupton.tumblr.com/post/80566830320/mercury-vs-omega-3s-for-brain-development-so-it)
+- [Discover the supriority of Plants over Seafood in regards to health](http://balupton.tumblr.com/post/64770655985/humans-turn-ala-udo-oil-to-epa-dha-fish-oil-faq)
+- [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) 
+
 
 ### Stress, tiredness and over-eating
 40% of the average American's stress comes from poor nutrition, when stressed we don't get good quality sleep, and consume more stimulants (sugar, coffee, calories, etc) which is treating the symptoms. By improving nutrition (by eating nutrient-dense foods - not calorie dense foods) we reduce stress, sleep better, perform better, and live happier.
