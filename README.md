@@ -8,6 +8,15 @@ For those raising questions about the comparison between plant products and anim
 This listing/comparison aims to be an argument proof factual listing of things going on, with the hopes remove all misinformation about plants vs animal products beyond and reasonable doubt. Constructive positive comments welcome. If you have something negative to say, try and think of an educational way of putting it, rather than an ego stroking "I'm right, you're wrong way" that just causes unecessary defenses. Thanks!
 
 
+## Contents
+
+1. [Ecology](#ecology)
+1. [Ethics](#ethics)
+1. [Health](#health)
+1. [Frequently Asked Questions](#faq)
+1. [Resources](#resources)
+
+
 ## Ecology
 [This is just a small summary, get the complete ecology listing.](http://balupton.tumblr.com/tagged/ecology)
 
