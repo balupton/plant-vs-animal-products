@@ -123,7 +123,7 @@ We can't stop our harm, but we can certainly minimise it.
 It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [minimising it](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products (which kills more plants and animals), instead we can choose plant based alternatives (which saves more plants and animals).
 
 
-### General; Plants are not sentient, therefore they don't matter
+### General; I don't think plants are sentient, therefore I don't think they ethically matter
 By definition of sentience (able to feel or perceive things) we can easily see that plants are indeed sentient, they actively heal when they feel damage, and they actively optimise when they perceive light and water. This is why we can feel empathy to plants, when we see their life dying, and their desire to live wilting away. This is why ecology is an ethical duty.
 
 For what it's worth, [Gaia theory](http://en.wikipedia.org/wiki/Gaia_hypothesis) expands our empathy to all things. This is possible in the way we consider a cell in our body, we may not care about each individual cell, but we certainly care about ourselves and our peers. Gaia theory works the same way, while we may not care for an individual rock, we can also notice that the rock is part of the larger Earth, which it too heals when damaged and optimises for opportunities, much like ourselves. This notion can also be expanded to all supersets, from the Earth, to the Solar System, to the Universe, and beyond.
