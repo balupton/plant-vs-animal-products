@@ -8,6 +8,14 @@ For those raising questions about the comparison between plant products and anim
 This listing/comparison aims to be an argument proof factual listing of things going on, with the hopes remove all misinformation about plants vs animal products beyond and reasonable doubt. Constructive positive comments welcome. If you have something negative to say, try and think of an educational way of putting it, rather than an ego stroking "I'm right, you're wrong way" that just causes unecessary defenses. Thanks!
 
 
+
+
+
+
+
+
+
+
 ## Contents
 
 1. [Ecology](#ecology)
@@ -17,8 +25,18 @@ This listing/comparison aims to be an argument proof factual listing of things g
 1. [Resources](#resources)
 
 
+
+
+
+
+
+
+
+
 ## Ecology
 [This is just a small summary, get the complete ecology listing.](http://balupton.tumblr.com/tagged/ecology)
+
+
 
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). One cow takes 2 acres of land to raise and feed, that same land could grow enough plant food to feed a small village. Animal agriculture also produces a lot of feces and waste products, which then go into our air and water supply, creating new parasites and viruses that are wreaking havoc on our health, their health, and the environment. Most importantly, animal agriculture is simply not sustainable — [Dr. John McDougal puts it bluntly albeit correctly and appropriately urgently](http://balupton.tumblr.com/post/80346233429/john-mcdougall-md-the-diet-wars-the-best): "(sic.) If you want to consume animal products, pick 9 of your friends that also want to consume animal products, and shoot them dead so you can continue your ways. It's better them, than your carnist mindset killing everyone."
@@ -28,11 +46,14 @@ Animal production for our benefit is the major contributor to global warming, as
 - [Read this definitive summary "Veganism is the best way to help the environment" to get the science](http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment)
 
 
+
 ### Non-Organics and Seafood
 The world's oceans are collapsing. Not their on the verge of collapse, or will collapse soon, but are actually collapsing NOW, all due to the desire for seasfood and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
 - [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) 
 - [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
+
+
 
 ### Gentically Modified
 Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contamaintated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food.
@@ -40,23 +61,38 @@ Genetically modified foods can actually be patented by big corporations, this me
 - [Watch the "Food Inc." documentary to see the problems with GMOs](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
 
+
 ### Non-Organics, Monocultures and Bees
 @TODO Talk about non-organic food, trademarked life and patent infrigement against farmers, and how monocultures are killing the bees.
+
+
+
+
+
+
+
+
 
 
 ## Ethical
 [This is just a small summary, get the complete ethical listing.](http://balupton.tumblr.com/tagged/ethics)
 
+
+
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
-Fish, cows, pigs, chickens, just like any other sentient being all feel pain, fear, and terror just like the rest of us. If you kill them, it is murder, and at the scales it is conducted, it is the world's largest holocaust, every single day.
+Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain, fear, and terror just like us humans. If you kill them, it is murder, and at the scales it is conducted, it is the world's largest holocaust, every single day.
 
 - [Watch the video that started the live export ban "Stories from Indonesia - Live Export Investigation" for letting us realise that non-human animals are people fighting for their lives](http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation)
 - [Watch the "Earthlings" documentry to realise the horror of the animal industry that we cause](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
+
+
 
 ### Dairy, Milk, Cheese, Whey
 Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy.
 
 - [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+
+
 
 ### Cheese
 Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stomachs of calves (often once they have been slaughtered for meat produce).
@@ -64,18 +100,32 @@ Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stom
 - [Learn about rennet on Wikipedia](http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia)
 - [If you can't give up cheese, then give up cruelty instead](http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty)
 
+
+
 ### Eggs
 Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens.
 
 - [Watch the egg industry in action](http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the)
 
+
+
 ### Honey, Beeswax, Pollon
 @TODO talk about the devestation farming bees has on them and why their enslavement does not justify your bee products, as well as the lack of evidence on their actual health benefits (just superstitions promoted by the bee industry)
+
+
 
 ### Fish
 A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
 
 - [Get the facts on fish hunting via Animals Australia's wealth of information](http://www.animalsaustralia.org/factsheets/fish_crustaceans.php)
+
+
+
+
+
+
+
+
 
 
 ## Health
@@ -107,6 +157,14 @@ When you ask how do you get your DHA (Omega fatty acids) most people will say se
 The first thing to go from eating animal products is your erections.
 
 - [This TEDxFremont talk by Rip Esselstyn explains the connection with "Plant-strong & healthy living"](http://youtu.be/AAkEYcmCCCk?t=6m26s).
+
+
+
+
+
+
+
+
 
 
 ## FAQ
