@@ -113,6 +113,10 @@ We can't stop our harm, but we can certainly minimise it.
 It is not about [maximising our murder](http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder), but [minimising it](http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm). We do not require to enslave, torture and murder animals for their products and by-products (which kills more plants and animals), instead we can choose plant based alternatives (which saves more plants and animals).
 
 
+### Image; I like murdering people, I like the taste, they make me feel important
+Unfortunately your [conspicous consumption](http://en.wikipedia.org/wiki/Conspicuous_consumption) is [ending the world](http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists)... When you consider this, you risk merely appearing as a selfish oppressive slave to consumerism rather than anything remotely worthwhile, and that won't serve you that well or get you that far.
+
+
 ### General; The disadvantaged can only afford junk food
 Incorrect in ALL aspects. Plants provide [more bang for the buck](http://balupton.tumblr.com/post/79551721462/best-nutrition-bang-for-your-buck-nutritionfacts-org) in nutrition, quantity, weight, everything except calories when compared to animal products, even despite the [majority of animal subsidies in place](http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/). In fact, if you also weigh in how much the medicine it costs to not die from the health issues of animal products, plant based eating is way cheaper. And finally, when you consider [animal products cause 15/16 of the leading causes of death](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a), it's a no-brainer when you factor in the cost of your own life.
 
@@ -144,7 +148,7 @@ Meat also has a natural drug in it called hypoxanthine which functions much like
 ### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
 False. This has been debunked, they are just myths spread by the animal agrictulture industry to create FUD against their perceived threat of veganism against their establishment.
 
-In reality, eating only healthy of food (plants) if of course good for you and all you need, see:
+In reality, eating only healthy food (plants) if of course good for you and all you need, see:
 http://www.adaptt.org/veganism.html
 
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
