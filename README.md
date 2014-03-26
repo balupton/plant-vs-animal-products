@@ -148,13 +148,17 @@ It's also important to recognise the role wording plays with the disconnect we h
 [This is just a small summary, get the complete health listing.](http://balupton.tumblr.com/tagged/health)
 
 ### Animal Products (Meat, Dairy, Fish, etc)
-Animal products cause 15/16 of the leading causes of death. It is even accepted that animal protein is toxic to the body. Plus the only way you get non-trivial amounts of cholesterol is from animal products, and one does not need to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage.
+The raising of animals involves a whole lot of feces, infections, and tumors. Heck, if an animal has cancer or an infection, they'll just cut out the tumorous part and feed you the rest — if they notice it that is. Not only that, but the poor conditions in slaughter houses means contaimination of the meat with virus ridden feces. So much so that, the average hamburger meat, including that of McDonalds, is mostly ammonium filler used to kill bacteria, with the actual meat being less that 20%, in some cases only 8% of less. There's a reason why people refer to hamburger patties as cardboard... but cardboard is putting it nicely. Finally, a piece of processed animal product actually contains parts of typically thousands of other animals, and if one of those thousand are infected, then your mouthful is too. E. Coli, a virus that is now rampant in the USA, can kill you within 3 days.
+
+But what about even the best of conditions? Well, much to people's dismay, it is now proven that animal products cause 15/16 of the leading causes of death, that animal protein is toxic to the body, and that the only way you get non-trivial amounts of cholesterol is from animal products.
+
+There is no need why one needs to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage. Animal products, are processed foods! But where do I get my protein from? From plants! The same place where the animals get their protein from!
 
 - [Watch the definitive talk "Uprooting the leading causes of death" on how 15/16 of the leading causes of death are preventable on a plant-only diet](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a)
 - [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary)
 - [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison](http://balupton.tumblr.com/post/64770587806/the-china-study-book) — [doubtful? read the praise section](http://www.thechinastudy.com/the-china-study/praise/)
+- [Watch the "Food Inc." documentary to see the horrific conditions of factory farming](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
-@TODO talk about FUD around complete VS incomplete proteins.
 
 ### Seafood (including Fish and Krill Oils)
 When you ask how do you get your DHA (Omega fatty acids) most people will say seafood. But it turns out that seafood will causes more brain damage than good. This is because seafood also has the detriment of our oceans being our toxic waste dumps, as such, the question isn't "do I get toxic chemicals in me like mercury, uranium, etc by eating fish" but rather "how much toxic chemicals do I get?" - this is also why you get Fish Oil in the pharmaceutical section, and Flax Seed Oil in the health food section, the pharmaceutical industry have an invested interest in your ill-health.
