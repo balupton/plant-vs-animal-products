@@ -157,7 +157,7 @@ There is no need why one needs to process their plant nutrients through an anima
 - [Watch the definitive talk "Uprooting the leading causes of death" on how 15/16 of the leading causes of death are preventable on a plant-only diet](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a)
 - [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary)
 - [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison](http://balupton.tumblr.com/post/64770587806/the-china-study-book) — [doubtful? read the praise section](http://www.thechinastudy.com/the-china-study/praise/)
-- [Watch the "Food Inc." documentary to see the horrific conditions of factory farming](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
+- [Watch the "Food Inc." documentary to see the contamination](http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource)
 
 
 ### Seafood (including Fish and Krill Oils)
