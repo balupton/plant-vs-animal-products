@@ -153,7 +153,7 @@ The raising of animals involves a whole lot of feces, infections, and tumors. He
 
 But what about even the best of conditions? Well, much to people's dismay, it is now proven that animal products cause 15/16 of the leading causes of death, that animal protein is toxic to the body, and that the only way you get non-trivial amounts of cholesterol is from animal products — this is regardless of where you get the meat, even if it's organic grass-fed etc, it is still toxic animal protein, bacteria and cholesterol, that doesn't change, no matter the source — it's the ingredients that's the problem, not the source!
 
-There is no need why one needs to process their plant nutrients through an animal, they can eat the plants directly to get a dramatic advantage. Animal products, are processed foods! But where do I get my protein from? From plants! The same place where the animals get their protein from!
+Plus there is no need for anyone to process their plant nutrients through an animal, they can just eat the plants directly and get a dramatic advantage! Animal products, are processed foods! But where do I get my protein from? From plants! The same place where the animals get their protein from!
 
 - [Watch the definitive talk "Uprooting the leading causes of death" on how 15/16 of the leading causes of death are preventable on a plant-only diet](http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a)
 - [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer](http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary)
