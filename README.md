@@ -84,7 +84,7 @@ Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain
 
 - [Watch the video that started the live export ban "Stories from Indonesia - Live Export Investigation" for letting us realise that non-human animals are people fighting for their lives](http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation)
 - [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
-- [Watch the "Earthlings" documentry to realise the immense horror of the animal industry that we cause](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
+- [Watch the "Earthlings" documentry to realise the full extent of the immense horror that our support of the animal industry causes](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
 
 
 
