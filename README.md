@@ -127,7 +127,7 @@ A lot of people believe that fishing is the kindest form of hunting, but this si
 
 
 ### Wording
-It's also important to recorgnise the role wording plays with the disconnect we have with non-human animal products:
+It's also important to recognise the role wording plays with the disconnect we have with non-human animal products:
 
 - Meat is now used as the disconnect term for the flesh of other people, their arteries, veins, muscles, tendons, cellulite, connective tissue, etc.
 - Dairy is now used as the disconnect term for a non-human person's breast milk, imagine sucking their nippples!
