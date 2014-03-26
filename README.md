@@ -83,7 +83,8 @@ Genetically modified foods can actually be patented by big corporations, this me
 Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain, fear, and terror just like us humans. If you kill them, it is murder, and at the scales it is conducted, it is the world's largest holocaust, every single day.
 
 - [Watch the video that started the live export ban "Stories from Indonesia - Live Export Investigation" for letting us realise that non-human animals are people fighting for their lives](http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation)
-- [Watch the "Earthlings" documentry to realise the horror of the animal industry that we cause](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
+- [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
+- [Watch the "Earthlings" documentry to realise the immense horror of the animal industry that we cause](http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary)
 
 
 
