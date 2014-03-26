@@ -135,7 +135,7 @@ It's also important to recognise the role wording plays with the disconnect we h
 - Honey is now used as the disconnect term for bee vommit
 - Beef & Poulty are now used as disconnect terms for particular types of people's flesh
 - Animals is now used as the disconnect term for referring to non-human animals, humans are animals! _Animal: a living organism which feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli_ — that's us alright! 
-
+- It is now used as the disconnect term for refering to a non-human people! They're he's and she's and mothers and fathers and children too. Each one is their own person, with their own personality, and their own family. They're not objects, their people, like us.
 
 
 
