@@ -111,7 +111,11 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 
 
 ### Honey, Beeswax, Pollon
-@TODO talk about the devestation farming bees has on them and why their enslavement does not justify your bee products, as well as the lack of evidence on their actual health benefits (just superstitions promoted by the bee industry)
+Honey is the food for the bees during winter, where there is no pollon to collect as the flowers are not out due to temperature differences. So when bee keeps take the honey, the bees have no food for winter, so they either kill all the bees, or give them sugar syrup instead. A lot like the milk industry.
+
+Not only that, but the treatment of bees is quite horrible, their constantly killed, and the use of non-organic products and pesticides in the areas the bee keepers are contracted to pollinate will kill the bees without the keepers having too.
+
+- [Learn more about the enslavement, torture, and murder of bees at this definitive resource](http://www.vegetus.org/honey/honey.htm)
 
 
 
@@ -154,10 +158,17 @@ When you ask how do you get your DHA (Omega fatty acids) most people will say se
 
 - [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well](http://balupton.tumblr.com/post/64769601126/find-your-athletic-edge-brendan-brazier-at).
 
+
 ### Erectyle Dysfunction
 The first thing to go from eating animal products is your erections.
 
 - [This TEDxFremont talk by Rip Esselstyn explains the connection with "Plant-strong & healthy living"](http://youtu.be/AAkEYcmCCCk?t=6m26s).
+
+
+### Honey, Polen, etc
+The health claims of bee products are just that, claims, made by the industry to promote selling their product, in the same way the animal industry and fossil fuel industries do it as well.
+
+- [Learn the sales behind bee products](http://www.vegetus.org/honey/health.htm)
 
 
 
