@@ -134,7 +134,7 @@ It's also important to recognise the role wording plays with the disconnect we h
 - Eggs is now used as the disconnect term for a neatly packaged menstrual period
 - Honey is now used as the disconnect term for bee vommit
 - Beef & Poulty are now used as disconnect terms for particular types of people's flesh
-- Animals is now used as the disconnect term for referring to non-human animals, humans are animals! `Animal: a living organism which feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli` — that's us alright! 
+- Animals is now used as the disconnect term for referring to non-human animals, humans are animals! _Animal: a living organism which feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli_ — that's us alright! 
 
 
 
