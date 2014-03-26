@@ -126,6 +126,17 @@ A lot of people believe that fishing is the kindest form of hunting, but this si
 
 
 
+### Wording
+It's also important to recorgnise the role wording plays with the disconnect we have with non-human animal products:
+
+- Meat is now used as the disconnect term for the flesh of other people, their arteries, veins, muscles, tendons, etc.
+- Dairy is now used as the disconnect term for another non-human person's breast milk, imagine sucking their nippples
+- Eggs is now used as the disconnect term for a neatly packaged menstrual period
+- Honey is now used as the disconnect term for bee vommit
+- Beef & Poulty are now used as disconnect terms for particular types of people's flesh
+
+
+
 
 
 
