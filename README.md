@@ -292,9 +292,9 @@ For more information see http://www.adaptt.org/veganism.html and http://www.vega
 
 - More facts and resources on animal vs plant products
   - [Resources I've found over the web](http://balupton.tumblr.com/tagged/vegan)
-  - [Watch my YouTube playlist on Veganism, Health and Environment](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782)
+  - [Videos I've found on YouTube](http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782)
 - More information on veganism and help on getting started
-  - http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos an amazing wealth of short convice videos of health facts
+  - http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos an amazing wealth of short concise videos of health facts
   - http://thriveforward.com/ personalised training and diet regime based on your needs and desires
   - http://www.the30dayveganchallenge.com/ challenge with daily videos, recipe ideas, and information
   - http://www.veganeasy.org/ great comprehensive resource and challenge on everything to do with, and for going vegan
