@@ -50,7 +50,7 @@ Animal production for our benefit is the major contributor to global warming, as
 
 
 ### Non-Organics and Seafood
-The world's oceans are collapsing. Not their on the verge of collapse, or will collapse soon, but are actually collapsing NOW, all due to the desire for seasfood and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
+The world's oceans are collapsing. Not "they're on the verge of collapse" or "will collapse soon" but are actually collapsing NOW, all due to the desire for seafood and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
 - [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening](http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this) 
 - [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection](http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local)
@@ -91,7 +91,7 @@ Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain
 
 
 ### Dairy, Milk, Cheese, Whey
-Milk-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or improsened to wind up slaughtered for their meat) something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass, yummy.
+Dairy-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or imprisoned to wind up slaughtered for their meat, sometimes chained up in a small box and starved for 6 months to produce veal, imagine that outcome for your human child! Not nice.) this is something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass due the unavoidable strain that productive milking has on their teets, yummy. Not only that, but the demand for dairy means that dairy cows continue to be and have been selectively bread over many years to produce abornormal amounts of milk, interfering with their quality of life (imagine all your most milk producing ancestors kept with the others murdered, to ensure that generations after that your testicals are so painfully swollen to the size of oranges that your quality of life suffers so much to the extent that your body must neglect its other duties to focus on an abnormal sperm production that leaves you in constant pain and leakage). 
 
 - [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection](http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky)
 
@@ -115,7 +115,7 @@ Female chickens lay eggs, but male chickens don't. So how do you keep a fresh su
 ### Honey, Beeswax, Pollon
 Honey is the food for the bees during winter, where there is no pollon to collect as the flowers are not out due to temperature differences. So when bee keeps take the honey, the bees have no food for winter, so they either kill all the bees, or give them sugar syrup instead. A lot like the milk industry.
 
-Not only that, but the treatment of bees is quite horrible, their constantly killed, and the use of non-organic products and pesticides in the areas the bee keepers are contracted to pollinate will kill the bees without the keepers having too.
+Not only that, but the treatment of bees is quite horrible, they're constantly killed, and the use of non-organic products and pesticides in the areas the bee keepers are contracted to pollinate will kill the bees without the keepers having too.
 
 - [Learn more about the enslavement, torture, and murder of bees at this definitive resource](http://www.vegetus.org/honey/honey.htm)
 
@@ -135,9 +135,10 @@ It's also important to recognise the role wording plays with the disconnect we h
 - Dairy is now used as the disconnect term for a non-human person's breast milk, imagine sucking their nippples!
 - Eggs is now used as the disconnect term for a neatly packaged menstrual period
 - Honey is now used as the disconnect term for bee vommit
-- Beef & Poulty are now used as disconnect terms for particular types of people's flesh
+- Beef, Poulty, Pork are now used as disconnect terms for particular types of people's flesh
+- Chicken, Fish is now used as the disconnect term for using a species a food, rather than for the species of people itself
 - Animals is now used as the disconnect term for referring to non-human animals, humans are animals! _Animal: a living organism which feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli_ — that's us alright! 
-- It is now used as the disconnect term for refering to a non-human people! They're he's and she's and mothers and fathers and brothers and sisters and children too. Each one is their own person, with their own personality, and their own family. They're not objects, they're people, just like us!
+- "It" is now used as the disconnect term for refering to a non-human people! They're he's and she's and mothers and fathers and brothers and sisters and children too. Each one is their own person, with their own personality, and their own family. They're not objects, they're people, just like us!
 
 
 
