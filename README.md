@@ -42,17 +42,18 @@ This listing/comparison aims to be an argument proof factual listing of things g
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). One cow takes 2 acres of land to raise and feed, that same land could grow enough plant food to feed a small village. Animal agriculture also produces a lot of feces and waste products, which then go into our air and water supply, creating new parasites and viruses that are wreaking havoc on our health, their health, and the environment. Most importantly, animal agriculture is simply not sustainable — [Dr. John McDougal puts it bluntly albeit correctly and appropriately urgently in his talk "The Diet Wars"][DietWars]: "(sic.) If you want to consume animal products, pick 9 of your friends that also want to consume animal products, and shoot them dead so you can continue your ways. It's better them, than your carnist mindset killing everyone."
 
-- [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
-- [Read this definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices" to realise the consequences][EatWorld]
-- [Read this definitive summary "Veganism is the best way to help the environment" to get the science][VeganEnvironment]
+- [Watch the definitive documentary "Cowspiracy: The Sustainability Secret" to learn why the above is not more commonly known, and what you can do to fix it.][Cowspiracy]
+- [Watch the definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
+- [Read the definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices" to realise the consequences][EatWorld]
+- [Read the definitive summary "Veganism is the best way to help the environment" to get the science][VeganEnvironment]
 
 
 
 ### Non-Organics and Seafood
 The world's oceans are collapsing. Not "they're on the verge of collapse" or "will collapse soon" but are actually collapsing NOW, all due to the desire for seafood and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
-- [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening][Jackson]
-- [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
+- [Watch the definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening][Jackson]
+- [Watch the definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
 
 
 
@@ -187,7 +188,7 @@ The first thing to go from eating animal products is your erections.
 ### Honey, Polen, etc
 The health claims of bee products are just that, claims, made by the industry to promote selling their product, in the same way the animal industry and fossil fuel industries do it as well.
 
-- [Learn the sale tatics behind bee products][BeeHealth]
+- [Learn the sale tactics behind bee products][BeeHealth]
 
 
 
@@ -355,6 +356,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [PlantStrong]: http://youtu.be/AAkEYcmCCCk?t=6m26s "TEDxFremont: Rip Esselstyn: Plant-Strong & Healthy Living"
   [FoodInc]: http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource "Documentary: Food Inc."
   [LiveExport]: http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation "Stories from Indonesia: Live Export Investigation"
+  [Cowspiracy]: http://balupton.tumblr.com/post/95691448965/cowspiracy-the-sustainability-secret "Documentary: Cowspiracy: The Sustainability Secret"
   [Forks]: http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary "Documentary: Forks Over Knives"
   [Earthlings]: http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary "Documentary: Earthlings"
   [Gaia]: http://en.wikipedia.org/wiki/Gaia_hypothesis "Wikipedia on Gaia Theory"
