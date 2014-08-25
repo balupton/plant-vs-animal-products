@@ -34,7 +34,6 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 
 
-
 ## Ecology
 [This is just a small summary, get the complete ecology listing.][Ecology]
 
@@ -43,24 +42,24 @@ This listing/comparison aims to be an argument proof factual listing of things g
 ### All Animals
 Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). One cow takes 2 acres of land to raise and feed, that same land could grow enough plant food to feed a small village. Animal agriculture also produces a lot of feces and waste products, which then go into our air and water supply, creating new parasites and viruses that are wreaking havoc on our health, their health, and the environment. Most importantly, animal agriculture is simply not sustainable — [Dr. John McDougal puts it bluntly albeit correctly and appropriately urgently in his talk "The Diet Wars"][DietWars]: "(sic.) If you want to consume animal products, pick 9 of your friends that also want to consume animal products, and shoot them dead so you can continue your ways. It's better them, than your carnist mindset killing everyone."
 
-- Watch the definitive talk [Local] to make the connection
-- Read the definitive pamphlet [EatWorld] to realise the consequences
-- Read the definitive summary [VeganEnvironment] to get the science
+- [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
+- [Read this definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices" to realise the consequences][EatWorld]
+- [Read this definitive summary "Veganism is the best way to help the environment" to get the science][VeganEnvironment]
 
 
 
 ### Non-Organics and Seafood
 The world's oceans are collapsing. Not "they're on the verge of collapse" or "will collapse soon" but are actually collapsing NOW, all due to the desire for seafood and non-organic farming. There is nothing that can possibly compare to the destruction we are doing to the oceans and consequently the world by supporting the fishing industry and non-organic farming.
 
-- Watch the definitive talk [Jackson] to see the reality of our collapsing oceans
-- Watch the definitive talk [Local] to make the connection
+- [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening][Jackson]
+- [Watch this definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
 
 
 
 ### Genetically Modified
 Genetically modified foods can actually be patented by big corporations, this means that farmers must pay licensing fees to use GMO crops, and if your organic crop accidentally gets contaminated by a neighbouring GMO farm, then you get sued. This is terrible for organic farmers that are trying to grow healthy, ethical, and ecological food.
 
-- Watch [FoodInc] to see the problems with GMOs
+- [Watch the "Food Inc." documentary to see the problems with GMOs][FoodInc]
 
 
 
@@ -77,38 +76,38 @@ Genetically modified foods can actually be patented by big corporations, this me
 
 
 ## Ethical
-This is just a small summary, more details at [Ethics].
+[This is just a small summary, get the complete ethical listing.][Ethics]
 
 
 
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain, fear, and terror just like us humans. If you kill them, it is murder, and at the scales it is conducted, it is the world's largest holocaust, every single day.
 
-- Watch the video that started the live export ban [LiveExport] for letting us realise that non-human animals are people fighting for their lives
-- Watch [GaryTalk] to make the connection
-- Watch the [Earthlings] to realise the full extent of the immense horror that our support of the animal industry causes
+- [Watch the video that started the live export ban "Stories from Indonesia - Live Export Investigation" for letting us realise that non-human animals are people fighting for their lives][LiveExport]
+- [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection][GaryTalk]
+- [Watch the "Earthlings" documentary to realise the full extent of the immense horror that our support of the animal industry causes][Earthlings]
 
 
 
 ### Dairy, Milk, Cheese, Whey
 Dairy-cows on average live 4 years out of there 20 year lifecycle due to the extreme strain non stop milk producing has on their body. They are also forcibly impregnated to keep them producing milk and as such have their baby's taken from them at birth (who then are enslaved into the milk industry, or imprisoned to wind up slaughtered for their meat, sometimes chained up in a small box and starved for 6 months to produce veal, imagine that outcome for your human child! Not nice.) this is something the cow's literally scream about for days. Despite all of the cow's hormones you ingest when drinking milk, as well as the protein problems (discussed in health section), milk is also legally allowed to have a droplet of pus in it for each glass due the unavoidable strain that productive milking has on their teets, yummy. Not only that, but the demand for dairy means that dairy cows continue to be and have been selectively bread over many years to produce abnormal amounts of milk, interfering with their quality of life (for the men who don't have teets, imagine in the case of your human testicles, that all your ancestors were the most sperm producing ones and the others were murdered, to ensure that generations after that your testicals are so painfully swollen to the size of oranges that your quality of life suffers so much to the extent that your body must neglect its other duties to focus on an abnormal sperm production that leaves you in constant pain and leakage).
 
-- Watch [GaryTalk] to make the connection
+- [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection][GaryTalk]
 
 
 
 ### Cheese
 Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stomachs of calves (often once they have been slaughtered for meat produce).
 
-- [Rennet]
-- [CheeseCruelty]
+- [Learn about rennet on Wikipedia][Rennet]
+- [If you can't give up cheese, then give up cruelty instead][CheeseCruelty]
 
 
 
 ### Eggs
 Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens.
 
-- Watch the egg industry in action with [MaleChicks]
+- [Watch the egg industry in action](MaleChicks)
 
 
 
@@ -117,14 +116,14 @@ Honey is the food for the bees during winter, where there is no pollon to collec
 
 Not only that, but the treatment of bees is quite horrible, they're constantly killed, and the use of non-organic products and pesticides in the areas the bee keepers are contracted to pollinate will kill the bees without the keepers having too.
 
-- Learn more about the enslavement, torture, and murder of bees at [Honey]
+- [Learn more about the enslavement, torture, and murder of bees at this definitive resource][Honey]
 
 
 
 ### Fish
 A lot of people believe that fishing is the kindest form of hunting, but this simply isn't true. Fish are actually found to have way more intense pain receptors than humans do. The reason for the easy exploitation is that once upon a time, they were abundant, but now that is not so, and it's much easier to teach children to kill an animal that can't scream in pain, versus one that can. Just because it can't scream, or verbally gasp for air, doesn't mean it isn't dying to do so, which it is.
 
-- Get the facts on fish hunting via [Fish]
+- [Get the facts on fish hunting via Animals Australia's wealth of information][Fish]
 
 
 
@@ -149,7 +148,7 @@ It's also important to recognise the role wording plays with the disconnect we h
 
 
 ## Health
-This is just a small summary, more details at [Health].
+[This is just a small summary, get the complete health listing.][Health]
 
 ### Animal Products (Meat, Dairy, Fish, etc)
 The raising of animals involves a whole lot of feces, infections, and tumors. Heck, if an animal has cancer or an infection, they'll just cut out the tumorous part and feed you the rest — if they notice it that is. Not only that, but the poor conditions in slaughter houses leads to contamination of the meat with virus ridden feces. So much so, that the average hamburger meat, including that of McDonalds, is mostly ammonium filler used to kill bacteria, with the actual meat being less that 20%, in some cases only 8% or less. There's a reason why people refer to hamburger patties as cardboard... but cardboard is much more complimentary than the reality. Finally, a piece of processed animal product actually contains parts of typically thousands of other animals, and if one of those thousand are infected, then your mouthful is too. E. Coli, a virus that is now rampant in the USA, can kill you within 3 days.
@@ -158,10 +157,10 @@ But what about even the best of conditions? Well, much to people's dismay, it is
 
 Plus there is no need for anyone to process their plant nutrients through an animal, they can just eat the plants directly and get a dramatic advantage! Animal products, are processed foods! But where do I get my protein from? From the same place where the animals their protein from! The plants!
 
-- Watch the definitive talk [Uproot] on how 15/16 of the leading causes of death are preventable on a plant-only diet
-- Watch the [Forks] documentary to discover the connection between animal protein and cancer
-- Read the [ChinaStudy], the most definitive health study ever conducted to remove all doubt about how animal protein is poison — doubtful? read the [ChinaStudyPraise]
-- Watch the [FoodInc] to see the contamination
+- [Watch the definitive talk "Uprooting the leading causes of death" on how 15/16 of the leading causes of death are preventable on a plant-only diet][Uproot]
+- [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer][ForksOverKnives]
+- [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison][ChinaStudy] — [doubtful? read the praise section][ChinaStudyPraise]
+- [Watch the "Food Inc." documentary to see the contamination][FoodInc]
 - [Break the misconception about vegan athletes by seeing their results for yourself][VeganAthletes]
 
 
@@ -170,25 +169,25 @@ When you ask how do you get your DHA (Omega fatty acids) most people will say se
 
 - [Discover the science behind seafood causing more brain damage than it prevents][Mercury]
 - [Discover the superiority of Plants over Seafood in regards to health][PlantOil]
-- Watch the definitive talk [Jackson] to see the reality of our collapsing oceans
+- [Watch this definitive TED talk by marine ecologist Jeremy Jackson to see the collapse happening][Jackson]
 
 
 ### Stress, tiredness and over-eating
 40% of the average American's stress comes from poor nutrition, when stressed we don't get good quality sleep, and consume more stimulants (sugar, coffee, calories, etc) which is treating the symptoms. By improving nutrition (by eating nutrient-dense foods - not calorie dense foods) we reduce stress, sleep better, perform better, and live happier.
 
-- [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well][Brazier].
+- [This TEDx talk by vegan athlete Brendan Brazier covers this incredibly well][Brazier]
 
 
 ### Erectyle Dysfunction
 The first thing to go from eating animal products is your erections.
 
-- [This TEDxFremont talk by Rip Esselstyn explains the connection with "Plant-strong & healthy living"][PlantStrong].
+- [This TEDxFremont talk by Rip Esselstyn explains the connection with "Plant-strong & healthy living"][PlantStrong]
 
 
 ### Honey, Polen, etc
 The health claims of bee products are just that, claims, made by the industry to promote selling their product, in the same way the animal industry and fossil fuel industries do it as well.
 
-- [Learn the sale tactics behind bee products][BeeHealth]
+- [Learn the sales behind bee products][BeeHealth]
 
 
 
@@ -216,7 +215,7 @@ It is not about [maximising our murder][MaxMurder], but [minimising it][MinMurde
 ### General; I don't think plants are sentient, therefore I don't think they ethically matter
 By definition of sentience (able to feel or perceive things) we can easily see that plants are indeed sentient, they actively heal when they feel damage, and they actively optimise when they perceive light and water. This is why we can feel empathy to plants, when we see their life dying, and their desire to live wilting away. This is why ecology is an ethical duty.
 
-For what it's worth, [Gaia Theory][Gaia] expands our empathy to all things. This is possible in the way we consider a cell in our body, we may not care about each individual cell, but we certainly care about ourselves and our peers. Gaia theory works the same way, while we may not care for an individual rock, we can also notice that the rock is part of the larger Earth, which it too heals when damaged and optimises for opportunities, much like ourselves. This notion can also be expanded to all supersets, from the Earth, to the Solar System, to the Universe, and beyond.
+For what it's worth, [Gaia theory][Gaia] expands our empathy to all things. This is possible in the way we consider a cell in our body, we may not care about each individual cell, but we certainly care about ourselves and our peers. Gaia theory works the same way, while we may not care for an individual rock, we can also notice that the rock is part of the larger Earth, which it too heals when damaged and optimises for opportunities, much like ourselves. This notion can also be expanded to all supersets, from the Earth, to the Solar System, to the Universe, and beyond.
 
 
 ### General; I like murdering people, I like the taste, it makes me feel important
@@ -246,19 +245,19 @@ False. Pesticides (which are needed in non-organic farming) inevitably kill anim
 False. It turns out that those who eliminate meat but continue to consume animal by-products will actually consume a lot more than usual, adding to the same (if not higher) ecological footprints. It also is a justification for knowing what is best, but utilizing moral jumps for not doing it. It also completely avoids the health and ethical sides of farming animals - which are incredibly important - while as explained falls short of explaining the ecological aspect. We know what will reduce ecological, ethical, and health footprints the most, and it is an easy switch, time to pull the trigger.
 
 ### Ethical; Being vegetarian is enough
-As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. A non-strict vegetarian diet still inflicts (if not more) pain on farmed animals; What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range, organic, it still applies. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meat industry, free range, organic, it still applies. Not only that, but vegetarianism's trivial scope of food doesn't cover the vast array of ways animals are tortured, enslaved and murdered on a daily basis. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch [GaryTalk] and the [Earthlings] for the next step.
+As great a step as being vegetarian is, it isn't the end goal to stopping animal cruelty. A non-strict vegetarian diet still inflicts (if not more) pain on farmed animals; What happens to the male chicks that are inevitably born to produce more egg laying hens? They get put into a grinder, free range, organic, it still applies. What happens to the cows to keep producing milk? They get forcibly impregnated with their children being stolen away from them at birth, enslaved to a life of milk producing or off'd to the meat industry, free range, organic, it still applies. Not only that, but vegetarianism's trivial scope of food doesn't cover the vast array of ways animals are tortured, enslaved and murdered on a daily basis. Animal cruelty doesn't stop with murder and meat; it stops with enslavement. Watch [Gary's Talk][GaryTalk] and the [Earthlings][Earthlings] for the next step.
 
 
-### General; Meat is delish, plants are bland
+### General; Meat is yummy, plants are bland
 Animal-based meat without plants and spices to flavour it, is pretty bland... Think about it, when was the last time you had a 5 star steak without a sauce, seasoning, or condiments added by either yourself, the chef, or the manufacturer? What most people come to find is they actually enjoy the flavour of the plants and spices that are added, rather than the meat. However, if you do enjoy the texture and taste of animal-based meat, you can get plant-based meats that taste and feel the same, but are good for your health, the environment, and the animals. See the [Weening Section](#weening) for some great plant-based meats.
 
-Meat also has a natural drug in it called hypoxanthine which functions much like MSG, that affects our brain to like it more and as an addiction. Meat also is incredibly acidic for the body to break down, making our body acidic, in response to this acidity, our body adjusts our digestion to be able to deal with such foods better, causing alkaline inducing foods such as plants to taste weird at first. Once the body alkalises, plants will taste amazing and animal products will taste foul. To speed this up, you can fast for 24 hours to reset your body. See [PleasureTrap] and [MeatAddictive]
+Meat also has a natural drug in it called hypoxanthine which functions much like MSG, that affects our brain to like it more and as an addiction. Meat also is incredibly acidic for the body to break down, making our body acidic, in response to this acidity, our body adjusts our digestion to be able to deal with such foods better, causing alkaline inducing foods such as plants to taste weird at first. Once the body alkalises, plants will taste amazing and animal products will taste foul. To speed this up, you can fast for 24 hours to reset your body. See [The Pleasure Trap][PleasureTrap] and [Meat Addictive?][MeatAddictive]
 
 
 ### Health; Eating only healthy food (plants) is vitamin deficient, you need to eat unhealthy food like (animal products) to get all your vitamins
 False. This has been debunked, they are just myths spread by the animal agriculture industry to create FUD against their perceived threat of veganism against their establishment.
 
-In reality, eating only healthy food (plants) if of course good for you and all you need, see [ADAPTT].
+In reality, eating only healthy food (plants) if of course good for you and all you need, see [ADAPTT's Essays on Veganism][ADAPTT].
 
 It is also worth reminding us, that animal products are processed foods. Instead of processed through a machine, they are processed through an animal instead.
 
@@ -284,41 +283,42 @@ You can get B-12 from most daily foods (soy/oat/rice/almond milks), mock meats, 
 
 If you are concerned about B-12 and your journey to veganism, keep in mind that supplementation is still a much better alternative of obtaining adequate B-12 amounts than murdering and devouring our fellow people and their products to get an un-guaranteed amount of B-12 (and other vitamins) with a guaranteed amount of harmful fats, proteins, chemicals, etc — with this comparison in mind, it's clear to see vegan, even with supplementation, is better for your health, the environment, and the people within it.
 
-For more information see [ADAPTT] on B-12, and see the [VeganSocietyB12] for all the studies behind it.
+For more information see [ADAPTT's Essays on Veganism][ADAPTT] of which one is on B-12, and see the [Vegan Society's statement on B-12][VeganSocietyB12] which contains all the studies behind it.
 
 
 
 ## Resources
 
 ### My Resources
-- [Tumblr]
-- [Youtube]
+- [Resources I've found over the web][Tumblr]
+- [Videos I've found on YouTube][Youtube]
 
 ### Wikipedia
-- [Wiki]
-- [WikiHealth]
-- [WikiEcology]
-- [People]
+- [Wikipedia on Veganism][Wiki]
+- [Wikipedia on Vegan Health Benefits][WikiHealth]
+- [Wikipedia on Vegan Ecology Benefits][WikiEcology]
+- [Wikipedia on Notable Vegans][People]
 
 ### More Information
-- [Facts]: An amazing wealth of short concise videos of health facts
-- [FAQ]: The most comprehensive listing of questions and answers I've ever found about a vegan lifestyle
+- [Nutrition Facts][Facts]: An amazing wealth of short concise videos of health facts
+- [Veganism: A truth whose time has come][FAQ]: The most comprehensive listing of questions and answers I've ever found about a vegan lifestyle
 
 ### Getting Started
-- [Thrive]: Personalised training and diet regime based on your needs and desires
-- [30day]: challenge with daily videos, recipe ideas, and information
-- [VeganEasy]: Great comprehensive resource and challenge on everything to do with, and for going vegan
-- [VeganKit]: Comprehensive resource on veganism that refers you to other sources, largely ethical based
-- [VeganSociety]: Comprehensive resource and challenge on everything to do with, and for going vegan
-- [FullyRaw]: Resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
+- [Thrive Forward][Thrive]: Personalised training and diet regime based on your needs and desires
+- [30 Day Vegan Challenge][30day]: challenge with daily videos, recipe ideas, and information
+- [Vegan Easy][VeganEasy]: Great comprehensive resource and challenge on everything to do with, and for going vegan
+- [Vegan Kit][VeganKit]: Comprehensive resource on veganism that refers you to other sources, largely ethical based
+- [Vegan Society][VeganSociety]: Comprehensive resource and challenge on everything to do with, and for going vegan
+- [Fully Raw][FullyRaw]: Resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
 
 ### Weening
-- [Frys]: South African company offering mock meats internationally
-- [BeyondMeat]: American company producing life-like meat and egg alternatives (backed by the vegans at Twitter)
+- [Frys Vegetarian][Frys]: South African company offering mock meats internationally
+- [Beyond Meat][BeyondMeat]: American company producing life-like meat and egg alternatives (backed by the vegans at Twitter)
 
 ### Shopping
-- [GaryShopping]
-- [iHerb]: Great for supplements, not all vegan, but usually says what is vegan or not
+- [Gary Yourofsky's Shopping Guide][GaryShopping]
+- [iHerb][iHerb]: Great for supplements, not all vegan, but usually says what is vegan or not
+
 
 
 ## License
