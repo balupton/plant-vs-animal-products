@@ -107,7 +107,7 @@ Unless otherwise stated, cheeses require taking an enzyme (rennet) from the stom
 ### Eggs
 Female chickens lay eggs, but male chickens don't. So how do you keep a fresh supply of female chickens ready to lay eggs? You put the male chicks in a grinder at birth. Free range or not, this is the industry approved standard for disposing of worthless male chickens.
 
-- [Watch the egg industry in action](MaleChicks)
+- [Watch the egg industry in action][MaleChicks]
 
 
 
@@ -158,7 +158,7 @@ But what about even the best of conditions? Well, much to people's dismay, it is
 Plus there is no need for anyone to process their plant nutrients through an animal, they can just eat the plants directly and get a dramatic advantage! Animal products, are processed foods! But where do I get my protein from? From the same place where the animals their protein from! The plants!
 
 - [Watch the definitive talk "Uprooting the leading causes of death" on how 15/16 of the leading causes of death are preventable on a plant-only diet][Uproot]
-- [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer][ForksOverKnives]
+- [Watch the "Forks over Knives" documentary to discover the connection between animal protein and cancer][Forks]
 - [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison][ChinaStudy] — [doubtful? read the praise section][ChinaStudyPraise]
 - [Watch the "Food Inc." documentary to see the contamination][FoodInc]
 - [Break the misconception about vegan athletes by seeing their results for yourself][VeganAthletes]
