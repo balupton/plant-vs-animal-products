@@ -187,7 +187,7 @@ The first thing to go from eating animal products is your erections.
 ### Honey, Polen, etc
 The health claims of bee products are just that, claims, made by the industry to promote selling their product, in the same way the animal industry and fossil fuel industries do it as well.
 
-- [Learn the sales behind bee products][BeeHealth]
+- [Learn the sale tatics behind bee products][BeeHealth]
 
 
 
