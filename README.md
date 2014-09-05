@@ -20,17 +20,27 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 ## Contents
 
+1. [Initiation](#initiation)
 1. [Ecology](#ecology)
 1. [Ethical](#ethical)
 1. [Health](#health)
 1. [Frequently Asked Questions](#faq)
+1. [Too Long Didn't Read](#tldr)
 1. [Resources](#resources)
 
 
 
+## Initiation
 
+If you'd prefer a more interactive and sound initiation to a plant-based lifestyle, rather than the bombardment of facts that this page contains. The following documentaries, videos, and resources, in the following order, are a fantastic option:
 
-
+1. [Cowspiracy][Cowspiracy]
+1. [Forks Over Knives][Forks]
+1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport]
+1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk]
+1. [Earthlings][Earthlings]
+1. [Carnism](http://www.carnism.org/carnism-presentation-video)
+1. [Speciesism](http://speciesismthemovie.com/)
 
 
 
@@ -285,6 +295,17 @@ You can get B-12 from most daily foods (soy/oat/rice/almond milks), mock meats, 
 If you are concerned about B-12 and your journey to veganism, keep in mind that supplementation is still a much better alternative of obtaining adequate B-12 amounts than murdering and devouring our fellow people and their products to get an un-guaranteed amount of B-12 (and other vitamins) with a guaranteed amount of harmful fats, proteins, chemicals, etc — with this comparison in mind, it's clear to see vegan, even with supplementation, is better for your health, the environment, and the people within it.
 
 For more information see [ADAPTT's Essays on Veganism][ADAPTT] of which one is on B-12, and see the [Vegan Society's statement on B-12][VeganSocietyB12] which contains all the studies behind it.
+
+
+
+
+
+## TLDR
+
+Too long didn't read;
+
+Living a plant-based lifestyle is the only sustainable lifestyle there is (of vital importance and urgency for all of us to follow), while also being better for your health, and depending your value system, can be ethically sound with any permanent cognitive dissonance.
+
 
 
 
