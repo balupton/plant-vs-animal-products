@@ -304,7 +304,7 @@ For more information see [ADAPTT's Essays on Veganism][ADAPTT] of which one is o
 
 Too long didn't read;
 
-Living a plant-based lifestyle is the only sustainable lifestyle there is (of vital importance and urgency for all of us to follow), while also being better for your health, and depending your value system, can be ethically sound with any permanent cognitive dissonance.
+Living a plant-based lifestyle is the only sustainable lifestyle there is (of vital importance and urgency for all of us to follow), while also being better for your health, and depending your value system, can be ethically sound without any permanent cognitive dissonance.
 
 
 
