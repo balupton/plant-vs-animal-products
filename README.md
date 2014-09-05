@@ -50,13 +50,13 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 
 
 ### All Animals
-Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). One cow takes 2 acres of land to raise and feed, that same land could grow enough plant food to feed a small village. Animal agriculture also produces a lot of feces and waste products, which then go into our air and water supply, creating new parasites and viruses that are wreaking havoc on our health, their health, and the environment. Most importantly, animal agriculture is simply not sustainable — [Dr. John McDougal puts it bluntly albeit correctly and appropriately urgently in his talk "The Diet Wars"][DietWars]: "(sic.) If you want to consume animal products, pick 9 of your friends that also want to consume animal products, and shoot them dead so you can continue your ways. It's better them, than your carnist mindset killing everyone."
+Animal production for our benefit is the major contributor to global warming, as well as the majority of plant food production goes towards feeding the animals instead of us (incredibly inefficient as it takes more plant products and energy emissions to eat animal products, than to just eat plant based ones). One cow takes 2 acres of land to raise and feed, that same land could grow enough plant food to feed a small village. Animal agriculture also produces a lot of feces and waste products, which then go into our air and water supply, creating new parasites and viruses that are wreaking havoc on our health, their health, and the environment. Most importantly, animal agriculture is simply not sustainable — to make the current demand for animal products sustainable, one must cut down their normal day's consumption to only being 1 day a week (with no new animal consumers being allowed to be born or coming about) — the alternative option is to continue as is, but cull 90% of animal consumers (with no new animal consumers being allowed to be born or coming about) — we'll let you weigh up which option is easier and less extreme.
 
 - [Watch the definitive documentary "Cowspiracy: The Sustainability Secret" to learn why the above is not more commonly known, and what you can do to fix it.][Cowspiracy]
 - [Watch the definitive talk "Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work" to make the connection][Local]
 - [Read the definitive pamphlet "Eating Up The World: The Environmental Consequences of Human Food Choices" to realise the consequences][EatWorld]
 - [Read the definitive summary "Veganism is the best way to help the environment" to get the science][VeganEnvironment]
-
+- [Watch the definitive talk "The Diet Wars" by Dr. John McDougal about the history of how the current situation came to be.][DietWars]
 
 
 ### Non-Organics and Seafood
