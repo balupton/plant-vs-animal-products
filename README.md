@@ -32,7 +32,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 ## Initiation
 
-If you'd prefer a more interactive and sound initiation to a plant-based lifestyle, rather than the bombardment of facts that this page contains. The following documentaries, videos, and resources, in the following order, are a fantastic option:
+If you'd prefer a more immersive initiation to a plant-based lifestyle, rather than the bombardment of facts that this page contains, the following documentaries, videos, and resources, in the following order, are a fantastic option:
 
 1. [Cowspiracy][Cowspiracy]
 1. [Forks Over Knives][Forks]
