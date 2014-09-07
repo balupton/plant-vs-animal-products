@@ -332,6 +332,7 @@ Living a plant-based lifestyle is the only sustainable lifestyle there is (of vi
 - [Vegan Kit][VeganKit]: Comprehensive resource on veganism that refers you to other sources, largely ethical based
 - [Vegan Society][VeganSociety]: Comprehensive resource and challenge on everything to do with, and for going vegan
 - [Fully Raw][FullyRaw]: Resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
+- [Raw Vegan Recipes][PinRawVegan]: Crowd-sourced vegan recipes (note, as it is crowd-sourced and not curated, some may not be vegan, check the ingrediants and remember to be ecological, eathical, and healthy!)
 
 ### Weening
 - [Frys Vegetarian][Frys]: South African company offering mock meats internationally
@@ -365,6 +366,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [ChinaStudy]: http://balupton.tumblr.com/post/64770587806/the-china-study-book "Dr. Colin Campbell: The China Study"
   [ChinaStudyPraise]: http://www.thechinastudy.com/the-china-study/praise/ "Praise for The China Study"
   [Fish]: http://www.animalsaustralia.org/factsheets/fish_crustaceans.php "Animals Australia: Fish & Crustaceans Fact Sheet"
+  [PinRawVegan]: http://www.pinterest.com/search/pins/?q=raw%20vegan&rs=ac&len=9 "Raw Vegan on Pinterest"
   [MaleChicks]: http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the "The Fate of Male Chicks"
   [CheeseCruelty]: http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty "If you can't give up cheese, then give up cruelty instead"
   [Rennet]: http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia "Wikipedia on Rennet"
