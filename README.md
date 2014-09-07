@@ -296,6 +296,7 @@ If you are concerned about B-12 and your journey to veganism, keep in mind that 
 
 For more information see [ADAPTT's Essays on Veganism][ADAPTT] of which one is on B-12, and see the [Vegan Society's statement on B-12][VeganSocietyB12] which contains all the studies behind it.
 
+We use [this B-12 supplement](http://www.iherb.com/Now-Foods-Ultra-B-12-16-fl-oz-473-ml/21324?rcode=DNF509) — adults take 2.5ml Mondays and Thursdays, and our under 13s take 2.5ml Mondays. [Smaller size here.](http://www.iherb.com/Now-Foods-Liquid-B-12-B-Complex-2-fl-oz-60-ml/419?rcode=DNF509)
 
 
 
