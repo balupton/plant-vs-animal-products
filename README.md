@@ -334,6 +334,7 @@ Living a plant-based lifestyle is the only sustainable lifestyle there is (of vi
 - [Vegan Society][VeganSociety]: Comprehensive resource and challenge on everything to do with, and for going vegan
 - [Fully Raw][FullyRaw]: Resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
 - [Raw Vegan Recipes][PinRawVegan]: Crowd-sourced vegan recipes (note, as it is crowd-sourced and not curated, some may not be vegan, check the ingrediants and remember to be ecological, eathical, and healthy!)
+- [One Green Planet](http://www.onegreenplanet.org/): Online magazine about vegan living
 
 ### Weening
 - [Frys Vegetarian][Frys]: South African company offering mock meats internationally
