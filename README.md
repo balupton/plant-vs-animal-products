@@ -333,8 +333,11 @@ Living a plant-based lifestyle is the only sustainable lifestyle there is (of vi
 - [Vegan Kit][VeganKit]: Comprehensive resource on veganism that refers you to other sources, largely ethical based
 - [Vegan Society][VeganSociety]: Comprehensive resource and challenge on everything to do with, and for going vegan
 - [Fully Raw][FullyRaw]: Resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
-- [Raw Vegan Recipes][PinRawVegan]: Crowd-sourced vegan recipes (note, as it is crowd-sourced and not curated, some may not be vegan, check the ingrediants and remember to be ecological, eathical, and healthy!)
 - [One Green Planet](http://www.onegreenplanet.org/): Online magazine about vegan living
+
+### Recipes
+- [Mouth Watering Vegan](MouthWateringVegan): Lots of amazing vegan food recipes
+- [Raw Vegan Recipes on Pinterest][PinRawVegan]: Crowd-sourced vegan recipes (note, as it is crowd-sourced and not curated, some may not be vegan, check the ingrediants and remember to be ecological, eathical, and healthy!)
 
 ### Weening
 - [Frys Vegetarian][Frys]: South African company offering mock meats internationally
@@ -410,3 +413,4 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [Tumblr]: http://balupton.tumblr.com/tagged/vegan "Resources I've Found Around the Web"
   [PleasureTrap]: http://www.youtube.com/watch?v=jX2btaDOBK8 "Dr. Douglas Lisle: The Pleasure Trap: Mastering the Hidden Force that Undermines Health & Happiness"
   [MeatAddictive]: http://www.nutrientrich.com/news-story/is-meat-addictive.html "Is Meat Addictive?"
+  [MouthWateringVegan]: http://mouthwateringvegan.com/ "Mouth Watering Vegan Recipes"
