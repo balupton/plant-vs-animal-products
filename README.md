@@ -34,9 +34,9 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 If you'd prefer a more immersive initiation to a plant-based lifestyle, rather than the bombardment of facts that this page contains, the following documentaries, videos, and resources, in the following order, are a fantastic option:
 
-1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals]
 1. [Cowspiracy][Cowspiracy]
 1. [Forks Over Knives][Forks]
+1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals]
 1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport]
 1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk]
 1. [Earthlings][Earthlings]
