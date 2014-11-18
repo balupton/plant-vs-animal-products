@@ -35,7 +35,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 If you'd prefer a more immersive initiation to a plant-based lifestyle, rather than the bombardment of facts that this page contains, the following documentaries, videos, and resources, in the following order, are a fantastic option:
 
 1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals]
-1. [Cowspiracy][Cowspiracy] (if you only watch one, watch this one)
+1. [Cowspiracy][Cowspiracy]
 1. [Forks Over Knives][Forks]
 1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport]
 1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk]
@@ -43,6 +43,8 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 1. [Dr. Melanie Joy on Carnism: The Psychology of Eating Meat][Carnism]
 1. [Speciesism](http://speciesismthemovie.com/)
 1. [Colleen Patrick-Goudreau: From Excuse-itarian to Vegan][Excuses]
+
+If you only watch one, let it be [Cowspiracy][Cowspiracy].
 
 
 ## Ecology
