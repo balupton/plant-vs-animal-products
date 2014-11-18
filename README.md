@@ -34,14 +34,15 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 If you'd prefer a more immersive initiation to a plant-based lifestyle, rather than the bombardment of facts that this page contains, the following documentaries, videos, and resources, in the following order, are a fantastic option:
 
-1. [Cowspiracy][Cowspiracy]
+1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals]
+1. [Cowspiracy][Cowspiracy] (if you only watch one, watch this one)
 1. [Forks Over Knives][Forks]
 1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport]
 1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk]
 1. [Earthlings][Earthlings]
-1. [Carnism](http://www.carnism.org/carnism-presentation-video)
+1. [Dr. Melanie Joy on Carnism: The Psychology of Eating Meat][Carnism]
 1. [Speciesism](http://speciesismthemovie.com/)
-
+1. [Colleen Patrick-Goudreau: From Excuse-itarian to Vegan][Excuses]
 
 
 ## Ecology
@@ -335,6 +336,7 @@ Living a plant-based lifestyle is the only sustainable lifestyle there is (of vi
 - [Vegan Society][VeganSociety]: Comprehensive resource and challenge on everything to do with, and for going vegan
 - [Fully Raw][FullyRaw]: Resources, videos, and challenge for going raw vegan (I'm not, but you certainly can)
 - [One Green Planet](http://www.onegreenplanet.org/): Online magazine about vegan living
+- [Colleen Patrick-Goudreau: From Excuse-itarian to Vegan][Excuses]: Great talk focused on practical and simple methodologies for making the switch
 
 ### Recipes
 - [Mouth Watering Vegan](MouthWateringVegan): Lots of amazing vegan food recipes
@@ -415,4 +417,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [PleasureTrap]: http://www.youtube.com/watch?v=jX2btaDOBK8 "Dr. Douglas Lisle: The Pleasure Trap: Mastering the Hidden Force that Undermines Health & Happiness"
   [MeatAddictive]: http://www.nutrientrich.com/news-story/is-meat-addictive.html "Is Meat Addictive?"
   [MouthWateringVegan]: http://mouthwateringvegan.com/ "Mouth Watering Vegan Recipes"
-  [SmartAnimals]: https://www.youtube.com/watch?v=5ZYQnt-67vs&index=27&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty78 "Animal Scientist debunks non-human animal intelligence propaganda"
+  [SmartAnimals]: https://www.youtube.com/watch?v=5ZYQnt-67vs&index=27&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&t=2m45s "Animal Scientist debunks non-human animal intelligence propaganda"
+  [Excuses]: https://www.youtube.com/watch?v=xWD1Zze5Qo4&index=49&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Colleen Patrick-Goudreau: From Excuse-itarian to Vegan"
+  [Carnism]: http://www.carnism.org/carnism-presentation-video "Dr. Melanie Joy on Carnism: The Psychology of Eating Meat"
+  [Speciesism]: http://speciesismthemovie.com/ "Speciesism, The Movie"
