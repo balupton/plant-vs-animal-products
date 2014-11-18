@@ -94,6 +94,7 @@ Genetically modified foods can actually be patented by big corporations, this me
 ### Meat, Diary, Eggs, Fur, Leather, Science, Strays, Entertainment
 Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain, fear, and terror just like us humans. If you kill them, it is murder, and at the scales it is conducted, it is the world's largest holocaust, every single day.
 
+- [Watch this talk by an Animal Scientist showing us that non-human animals are far more intelligent than we are lead to believe by the animal agriculture industry's interests](SmartAnimals)
 - [Watch the video that started the live export ban "Stories from Indonesia - Live Export Investigation" for letting us realise that non-human animals are people fighting for their lives][LiveExport]
 - [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection][GaryTalk]
 - [Watch the "Earthlings" documentary to realise the full extent of the immense horror that our support of the animal industry causes][Earthlings]
@@ -414,3 +415,4 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [PleasureTrap]: http://www.youtube.com/watch?v=jX2btaDOBK8 "Dr. Douglas Lisle: The Pleasure Trap: Mastering the Hidden Force that Undermines Health & Happiness"
   [MeatAddictive]: http://www.nutrientrich.com/news-story/is-meat-addictive.html "Is Meat Addictive?"
   [MouthWateringVegan]: http://mouthwateringvegan.com/ "Mouth Watering Vegan Recipes"
+  [SmartAnimals]: https://www.youtube.com/watch?v=5ZYQnt-67vs&index=27&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty78 "Animal Scientist debunks non-human animal intelligence propaganda"
