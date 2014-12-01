@@ -155,6 +155,8 @@ It's also important to recognise the role wording plays with the disconnect we h
 - "It" is now used as the disconnect term for referring to a non-human people! They're he's and she's and mothers and fathers and brothers and sisters and children too. Each one is their own person, with their own personality, and their own family. They're not objects, they're people, just like us!
 
 
+### Etiquette
+@TODO Cover how etiquette is primarily setup to nonsensically distance ourselves above non-human animals
 
 
 
