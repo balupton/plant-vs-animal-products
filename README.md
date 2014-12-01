@@ -352,6 +352,9 @@ Living a plant-based lifestyle is the only sustainable lifestyle there is (of vi
 - [Gary Yourofsky's Shopping Guide][GaryShopping]
 - [iHerb][iHerb]: Great for supplements, not all vegan, but usually says what is vegan or not
 
+### Dining
+- [HappyCow][HappyCow]: Great listing of vegetarian restaurants around the world, with vegan filters
+- [Yelp][Yelp]: Very detailed listing of restaurants around the world, with vegan filters
 
 
 ## License
@@ -423,3 +426,5 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [Excuses]: https://www.youtube.com/watch?v=xWD1Zze5Qo4&index=49&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Colleen Patrick-Goudreau: From Excuse-itarian to Vegan"
   [Carnism]: http://www.carnism.org/carnism-presentation-video "Dr. Melanie Joy on Carnism: The Psychology of Eating Meat"
   [Speciesism]: http://speciesismthemovie.com/ "Speciesism, The Movie"
+  [HappyCow]: http://happycow.net/ "HappyCow: Vegetarian restaurants around the world"
+  [Yelp]: http://yelp.com/ "Yelp: Restaurants around the world"
