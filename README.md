@@ -78,9 +78,10 @@ Genetically modified foods can actually be patented by big corporations, this me
 
 
 ### Non-Organics, Monocultures and Bees
-@TODO Talk about non-organic food, trademarked life and patent infringement against farmers, and how monocultures are killing the bees.
+Non-organic pesticides can be quite toxic to the farmers, which was why farmer Akinori Kimura spent 10 years perfecting organic apples in Japan as his wife became terribly sick with pesticides. Not only that, but they also kill bees, which we require for all nearly all plant life - no bees, no eco-systems, no life. Our monocultures (acre and acre of a single crop) also destroy the soil, and make it hard for natural ecologies to farm, killing bees, and altering climates is disastrous ways.
 
-
+- [If you speak Japanese, watch Fruits of Faith the movie to learn about Akinori Kimura and his Organic Apple journey][FruitsOfFaith], [or watch his TEDxTalk](https://www.youtube.com/watch?v=XEAp9m8ukUw&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&index=82)
+- [Watch the "More than Honey" documentary to learn the issues facing bees as well as their importance][MoreThanHoney]
 
 
 
@@ -430,3 +431,5 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [Speciesism]: http://speciesismthemovie.com/ "Speciesism, The Movie"
   [HappyCow]: http://happycow.net/ "HappyCow: Vegetarian restaurants around the world"
   [Yelp]: http://yelp.com/ "Yelp: Restaurants around the world"
+  [FruitsOfFaith]: http://asianwiki.com/Fruits_of_Faith "Fruits of Faith: The story of organic apples"
+  [MoreThanHoney]: http://buy.morethanhoneyfilm.com/ "More Than Honey"
