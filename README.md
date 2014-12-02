@@ -157,8 +157,9 @@ It's also important to recognise the role wording plays with the disconnect we h
 
 
 ### Etiquette
-@TODO Cover how etiquette is primarily setup to nonsensically distance ourselves above non-human animals
+Ever noticed how most insults of etiquette are non-human species name calling? Eating with your hands, you pig! Not smart, you monkey! Go eat outside like the dogs. It's very convenient to condemn non-human animals to that level, especially when your religion's beliefs depend on that superiority - you savages, just like animals, we must make a man out of you! For that is the only way to get God's approval, as there is no heaven for savages like you, only hell, disgusting, repulsing, filth.
 
+I make a point these days of licking my plates, and watching people's eyes go wide in shock, to point out the learned speciesism in their reaction, and how etiquette's only purpose is to distance us from the reality non-human animals are great examples of life's virtues.
 
 
 
