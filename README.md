@@ -103,6 +103,7 @@ Fish, cows, pigs, chickens, dogs, cats, just like all animals they all feel pain
 - [Watch Gary Yourofsky's "The Greatest Talk You'll Ever Hear" to make the connection][GaryTalk]
 - [Watch the "Earthlings" documentary to realise the full extent of the immense horror that our support of the animal industry causes][Earthlings]
 - [Watch the "Lucent" documentary to discover the horror of Australia's pig industry][Lucent]
+- [Discover what Australian animal agriculture is actually like via AussieFarms.org.au][AussieFarms]
 
 
 
@@ -439,3 +440,4 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [FruitsOfFaith]: http://asianwiki.com/Fruits_of_Faith "Fruits of Faith: The story of organic apples"
   [MoreThanHoney]: http://buy.morethanhoneyfilm.com/ "More Than Honey"
   [Lucent]: https://aussiefarms.org.au/pigs/lucent "Lucent is a feature-length documentary about the vast yet largely unseen suffering inherent to Australia's pig farming industry."
+  [AussieFarms]: http://www.aussiefarms.org.au/ "The Aussie Farms Initiative: Fighting to end commercialised animal abuse and exploitation in Australia"
