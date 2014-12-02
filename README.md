@@ -232,6 +232,9 @@ It is not about [maximising our murder][MaxMurder], but [minimising it][MinMurde
 
 
 ### General; I don't think plants are sentient, therefore I don't think they ethically matter
+
+> Update: I now answer this question [like this.](http://balupton.tumblr.com/post/104141679065/is-it-ethical-to-eat-plants)
+
 By definition of sentience (able to feel or perceive things) we can easily see that plants are indeed sentient, they actively heal when they feel damage, and they actively optimise when they perceive light and water. This is why we can feel empathy to plants, when we see their life dying, and their desire to live wilting away. This is why ecology is an ethical duty.
 
 For what it's worth, [Gaia theory][Gaia] expands our empathy to all things. This is possible in the way we consider a cell in our body, we may not care about each individual cell, but we certainly care about ourselves and our peers. Gaia theory works the same way, while we may not care for an individual rock, we can also notice that the rock is part of the larger Earth, which it too heals when damaged and optimises for opportunities, much like ourselves. This notion can also be expanded to all supersets, from the Earth, to the Solar System, to the Universe, and beyond.
