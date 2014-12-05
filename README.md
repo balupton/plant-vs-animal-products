@@ -209,6 +209,7 @@ The first thing to go from eating animal products is your erections.
 The health claims of bee products are just that, claims, made by the industry to promote selling their product, in the same way the animal industry and fossil fuel industries do it as well.
 
 - [Learn the sale tactics behind bee products][BeeHealth]
+- [Wikipedia on honey's negligible health effects and it's significant dangers][WikiHoney]
 
 
 
@@ -425,6 +426,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [People]: http://www.wikiwand.com/en/List_of_vegans "Wikipedia on Notable Vegans"
   [WikiEcology]: http://www.wikiwand.com/en/Environmental_vegetarianism "Wikipedia on Vegan Ecology Benefits"
   [WikiHealth]: http://www.wikiwand.com/en/Vegan_nutrition "Wikipedia on Vegan Health Benefits"
+  [WikiHoney]: http://www.wikiwand.com/en/Honey#/Health_effects "Honey Health Effects"
   [Wiki]: http://www.wikiwand.com/en/Veganism "Wikipedia on Veganism"
   [Youtube]: http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Videos I've Found on YouTube"
   [Tumblr]: http://balupton.tumblr.com/tagged/vegan "Resources I've Found Around the Web"
