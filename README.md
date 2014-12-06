@@ -48,6 +48,26 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 
 If you only watch one, let it be [Cowspiracy][Cowspiracy] (paid) or [Making the Connection][MakingTheConnection] (free).
 
+Once initiated, other great documentaries are:
+
+- An Inconvenient Truth
+- At the Edge of the World
+- Baraka & Samsara
+- Blackfish
+- Chasing Ice
+- Food Inc
+- Food Matters
+- Gas Land
+- Hungry for Change
+- Lucent
+- More than Honey
+- Sharkwater
+- Super Size Me
+- The Age of Stupid
+- The Cove
+- The Last Ocean
+- Vanishing of the Bees
+
 
 ## Ecology
 [This is just a small summary, get the complete ecology listing.][Ecology]
