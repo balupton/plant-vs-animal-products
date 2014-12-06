@@ -42,8 +42,8 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport] (free)
 1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk] (free)
 1. [Earthlings][Earthlings] (free)
-1. [Dr. Melanie Joy on Carnism: The Psychology of Eating Meat][Carnism](free)
-1. [Speciesism](http://speciesismthemovie.com/) (paid)
+1. [Dr. Melanie Joy on Carnism: The Psychology of Eating Meat][Carnism] (free)
+1. [Speciesism][Speciesism] (paid)
 1. [Colleen Patrick-Goudreau: From Excuse-itarian to Vegan][Excuses] (free)
 
 If you only watch one, let it be [Cowspiracy][Cowspiracy] (paid) or [Making the Connection][MakingTheConnection] (free).
@@ -447,3 +447,4 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [AussieFarms]: http://www.aussiefarms.org.au/ "The Aussie Farms Initiative: Fighting to end commercialised animal abuse and exploitation in Australia"
   [MakingTheConnection]: https://vimeo.com/15849273 "Making the Connection presents the benefits of a plant based diet in a contemporary and upbeat style."
   [FatSickNearlyDead]: https://www.youtube.com/watch?v=-XDSpuMIMPs&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&index=39 "Fat Sick Nearly Dead: Morbidly obese and stricken with an autoimmune disease, a man endeavors to drink only fruit and vegetable juice for 60 days in an effort to lose weight and reclaim his health."
+  [Speciesism]: http://speciesismthemovie.com/ "Speciesism: The Movie. You'll never look at animals the same way again. Especially humans."
