@@ -37,6 +37,7 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 1. [Making the Connection][MakingTheConnection] (free)
 1. [Cowspiracy][Cowspiracy] (paid)
 1. [Forks Over Knives][Forks] (paid)
+1. [Fat Sick Nearly Dead][FatSickNearlyDead] (free)
 1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals] (free)
 1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport] (free)
 1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk] (free)
