@@ -50,23 +50,22 @@ If you only watch one, let it be [Cowspiracy][Cowspiracy] (paid) or [Making the 
 
 Once initiated, other great documentaries are:
 
-- An Inconvenient Truth
-- At the Edge of the World
-- Baraka & Samsara
-- Blackfish
-- Chasing Ice
-- Food Inc
-- Food Matters
-- Gas Land
-- Hungry for Change
-- Lucent
-- More than Honey
-- Sharkwater
-- Super Size Me
-- The Age of Stupid
-- The Cove
-- The Last Ocean
-- Vanishing of the Bees
+- [An Inconvenient Truth][AnInconvenientTruth]
+- [At the Edge of the World][AtTheEdgeOfTheWorld]
+- [Baraka][Baraka] & [Samsara][Samsara]
+- [Chasing Ice][ChasingIce]
+- [Food Inc][FoodInc]
+- [Food Matters][FoodMatters]
+- [Gas Land][GasLand]
+- [Hungry for Change][HungryForChange]
+- [Lucent][Lucent]
+- [More than Honey][MoreThanHoney]
+- [Sharkwater][Sharkwater]
+- [Super Size Me][SuperSizeMe]
+- [The Age of Stupid][TheAgeOfStupid]
+- [The Cove][TheCove]
+- [The Last Ocean][TheLastOcean]
+- [Vanishing of the Bees][VanishingOfTheBees]
 
 
 ## Ecology
@@ -394,9 +393,8 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
 <br/>Copyright &copy; 2013+ [Benjamin Lupton](http://balupton.com) <b@lupton.cc>
 
 
-  [Ecology]: http://balupton.tumblr.com/tagged/ecology "Complete Ecology Listing"
-  [Ethics]: http://balupton.tumblr.com/tagged/ethics "Complete Ethics Listing"
-  [Health]: http://balupton.tumblr.com/tagged/health "Complete Health Listing"
+<!-- Resources -->
+
   [Conspicuous]: http://en.wikipedia.org/wiki/Conspicuous_consumption "Wikipedia on Conspicuous Consumption"
   [Honey]: http://www.vegetus.org/honey/honey.htm "Why Honey is Not Vegan"
   [Veal]: http://balupton.tumblr.com/post/79544841478/off-to-get-tied-up-malnutritioned-then-murdered
@@ -404,38 +402,39 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [BeeHealth]: http://www.vegetus.org/honey/health.htm
   [MaxMurder]: http://balupton.tumblr.com/post/78297493011/joel-salatin-of-polyface-farm-uses-we-murder
   [MinMurder]: http://balupton.tumblr.com/post/70074081942/veganism-its-about-reducing-our-harm
-  [Uproot]: http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a "Dr. Michael Greger: Uprooting the Leading Causes of Death"
   [Mercury]: http://balupton.tumblr.com/post/80566830320/mercury-vs-omega-3s-for-brain-development-so-it
   [VeganAthletes]: http://balupton.tumblr.com/post/80799570407/great-vegan-athletes
   [PlantOil]: http://balupton.tumblr.com/post/64770655985/humans-turn-ala-udo-oil-to-epa-dha-fish-oil-faq
   [ChinaStudy]: http://balupton.tumblr.com/post/64770587806/the-china-study-book "Dr. Colin Campbell: The China Study"
   [ChinaStudyPraise]: http://www.thechinastudy.com/the-china-study/praise/ "Praise for The China Study"
   [Fish]: http://www.animalsaustralia.org/factsheets/fish_crustaceans.php "Animals Australia: Fish & Crustaceans Fact Sheet"
-  [PinRawVegan]: http://www.pinterest.com/search/pins/?q=raw%20vegan&rs=ac&len=9 "Raw Vegan on Pinterest"
   [MaleChicks]: http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the "The Fate of Male Chicks"
   [CheeseCruelty]: http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty "If you can't give up cheese, then give up cruelty instead"
   [Rennet]: http://h.lupton.cc/post/60622814872/rennet-wikipedia-the-free-encyclopedia "Wikipedia on Rennet"
-  [DietWars]: http://balupton.tumblr.com/post/80346233429/john-mcdougall-md-the-diet-wars-the-best "Dr. John McDougall: The Diet Wars"
   [EatWorld]: http://balupton.tumblr.com/post/64770329352/eating-up-the-world-the-environmental-consequences-of "Eating Up The World: The Environmental Consequences of Human Food Choices"
   [VeganEnvironment]: http://balupton.tumblr.com/post/66822132998/why-veganism-is-the-best-way-to-help-the-environment "Why Veganism is the Best Way to Help The Environment"
-  [Local]: http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local "Dr. Richard Oppenlander: Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work"
-  [Jackson]: http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this "Dr. Jeremeny Jackson: Ocean Apocalypse"
-  [Brazier]: http://balupton.tumblr.com/post/64769601126/find-your-athletic-edge-brendan-brazier-at "TEDxFremont: Brendan Brazier: Find Your Athletic Edge"
-  [PlantStrong]: http://youtu.be/AAkEYcmCCCk?t=6m26s "TEDxFremont: Rip Esselstyn: Plant-Strong & Healthy Living"
-  [FoodInc]: http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource "Documentary: Food Inc."
-  [LiveExport]: http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation "Stories from Indonesia: Live Export Investigation"
-  [Cowspiracy]: http://balupton.tumblr.com/post/95691448965/cowspiracy-the-sustainability-secret "Documentary: Cowspiracy: The Sustainability Secret"
-  [Forks]: http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary "Documentary: Forks Over Knives"
-  [Earthlings]: http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary "Documentary: Earthlings"
-  [Gaia]: http://en.wikipedia.org/wiki/Gaia_hypothesis "Wikipedia on Gaia Theory"
-  [GaryShopping]: http://www.adaptt.org/shopping.html "Gary Yourofsky's Shopping Guide"
-  [GaryTalk]: http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky  "Gary Yourofsky's: The Greatest Talk You'll Ever Hear"
-  [ADAPTT]: http://www.adaptt.org/veganism.html "Animals Deserve Absolute Protection Today and Tomorrow: Essays on Veganism"
-  [iHerb]: http://www.iherb.com?rcode=DNF509
-  [BeyondMeat]: http://beyondmeat.com/products "Beyond Meat"
-  [Frys]: http://www.frysvegetarian.co.za "Frys Vegetarian"
-  [FullyRaw]: http://fullyraw.com "Fully Raw"
-  [MeatExpensive]: http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/
+  [AussieFarms]: http://www.aussiefarms.org.au/ "The Aussie Farms Initiative: Fighting to end commercialised animal abuse and exploitation in Australia"
+  [MeatAddictive]: http://www.nutrientrich.com/news-story/is-meat-addictive.html "Is Meat Addictive?"
+  [Wiki]: http://www.wikiwand.com/en/Veganism "Wikipedia on Veganism"
+  [People]: http://www.wikiwand.com/en/List_of_vegans "Wikipedia on Notable Vegans"
+  [WikiEcology]: http://www.wikiwand.com/en/Environmental_vegetarianism "Wikipedia on Vegan Ecology Benefits"
+  [WikiHealth]: http://www.wikiwand.com/en/Vegan_nutrition "Wikipedia on Vegan Health Benefits"
+  [WikiHoney]: http://www.wikiwand.com/en/Honey#/Health_effects "Honey Health Effects"
+  [MeatExpensive]: http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/ "10 Things I Wish All Americans Knew About The Meat and Dairy Industries"
+  [Facts]: http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos "Nutrition Facts"
+
+
+<!-- Listings -->
+
+  [Ecology]: http://balupton.tumblr.com/tagged/ecology "Complete Ecology Listing"
+  [Ethics]: http://balupton.tumblr.com/tagged/ethics "Complete Ethics Listing"
+  [Health]: http://balupton.tumblr.com/tagged/health "Complete Health Listing"
+  [Youtube]: http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Videos I've Found on YouTube"
+  [Tumblr]: http://balupton.tumblr.com/tagged/vegan "Resources I've Found Around the Web"
+
+<!-- Getting Started -->
+
+  [FAQ]: http://balupton.tumblr.com/post/69881065444/veganism-a-truth-whose-time-has-come-a-response-to "Veganism: A truth whose time has come"
   [VeganCheap]: http://balupton.tumblr.com/post/79551721462/best-nutrition-bang-for-your-buck-nutritionfacts-org
   [VeganSociety]: http://www.vegansociety.com "Vegan Society"
   [VeganSocietyB12]: http://www.vegansociety.com/lifestyle/nutrition/b12.aspx "Vegan Society's statement on B-12"
@@ -443,28 +442,60 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [VeganEasy]: http://www.veganeasy.org "Vegan Easy"
   [30day]: http://www.the30dayveganchallenge.com "30 Day Vegan Challenge"
   [Thrive]: http://thriveforward.com "Thrive Forward"
-  [FAQ]: http://balupton.tumblr.com/post/69881065444/veganism-a-truth-whose-time-has-come-a-response-to "Veganism: A truth whose time has come"
-  [Facts]: http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos "Nutrition Facts"
-  [People]: http://www.wikiwand.com/en/List_of_vegans "Wikipedia on Notable Vegans"
-  [WikiEcology]: http://www.wikiwand.com/en/Environmental_vegetarianism "Wikipedia on Vegan Ecology Benefits"
-  [WikiHealth]: http://www.wikiwand.com/en/Vegan_nutrition "Wikipedia on Vegan Health Benefits"
-  [WikiHoney]: http://www.wikiwand.com/en/Honey#/Health_effects "Honey Health Effects"
-  [Wiki]: http://www.wikiwand.com/en/Veganism "Wikipedia on Veganism"
-  [Youtube]: http://www.youtube.com/playlist?list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Videos I've Found on YouTube"
-  [Tumblr]: http://balupton.tumblr.com/tagged/vegan "Resources I've Found Around the Web"
-  [PleasureTrap]: http://www.youtube.com/watch?v=jX2btaDOBK8 "Dr. Douglas Lisle: The Pleasure Trap: Mastering the Hidden Force that Undermines Health & Happiness"
-  [MeatAddictive]: http://www.nutrientrich.com/news-story/is-meat-addictive.html "Is Meat Addictive?"
   [MouthWateringVegan]: http://mouthwateringvegan.com/ "Mouth Watering Vegan Recipes"
-  [SmartAnimals]: https://www.youtube.com/watch?v=5ZYQnt-67vs&index=27&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&t=2m45s "Animal Scientist debunks non-human animal intelligence propaganda"
-  [Excuses]: https://www.youtube.com/watch?v=xWD1Zze5Qo4&index=49&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Colleen Patrick-Goudreau: From Excuse-itarian to Vegan"
-  [Carnism]: http://www.carnism.org/carnism-presentation-video "Dr. Melanie Joy on Carnism: The Psychology of Eating Meat"
-  [Speciesism]: http://speciesismthemovie.com/ "Speciesism, The Movie"
   [HappyCow]: http://happycow.net/ "HappyCow: Vegetarian restaurants around the world"
   [Yelp]: http://yelp.com/ "Yelp: Restaurants around the world"
-  [FruitsOfFaith]: http://asianwiki.com/Fruits_of_Faith "Fruits of Faith: The story of organic apples"
-  [MoreThanHoney]: http://buy.morethanhoneyfilm.com/ "More Than Honey"
+  [BeyondMeat]: http://beyondmeat.com/products "Beyond Meat"
+  [Frys]: http://www.frysvegetarian.co.za "Frys Vegetarian"
+  [FullyRaw]: http://fullyraw.com "Fully Raw"
+  [Gaia]: http://en.wikipedia.org/wiki/Gaia_hypothesis "Wikipedia on Gaia Theory"
+  [GaryShopping]: http://www.adaptt.org/shopping.html "Gary Yourofsky's Shopping Guide"
+  [ADAPTT]: http://www.adaptt.org/veganism.html "Animals Deserve Absolute Protection Today and Tomorrow: Essays on Veganism"
+  [iHerb]: http://www.iherb.com?rcode=DNF509 "35000+ top-rated products; with discount shipping, incredible values and customer rewards."
+  [PinRawVegan]: http://www.pinterest.com/search/pins/?q=raw%20vegan&rs=ac&len=9 "Raw Vegan on Pinterest"
+
+<!-- Talks -->
+
+  [Excuses]: https://www.youtube.com/watch?v=xWD1Zze5Qo4&index=49&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782 "Colleen Patrick-Goudreau: From Excuse-itarian to Vegan"
+  [Carnism]: http://www.carnism.org/carnism-presentation-video "Dr. Melanie Joy on Carnism: The Psychology of Eating Meat"
+  [SmartAnimals]: https://www.youtube.com/watch?v=5ZYQnt-67vs&index=27&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&t=2m45s "Animal Scientist debunks non-human animal intelligence propaganda"
+  [PleasureTrap]: http://www.youtube.com/watch?v=jX2btaDOBK8 "Dr. Douglas Lisle: The Pleasure Trap: Mastering the Hidden Force that Undermines Health & Happiness"
+  [GaryTalk]: http://balupton.tumblr.com/post/64768966299/best-speech-you-will-ever-hear-gary-yourofsky  "Gary Yourofsky's: The Greatest Talk You'll Ever Hear"
+  [Local]: http://balupton.tumblr.com/post/80262121018/sustainability-and-food-choice-why-eating-local "Dr. Richard Oppenlander: Sustainability and Food Choice: Why Eating Local, Less Meat, and Taking Baby Steps Won’t Work"
+  [Jackson]: http://balupton.tumblr.com/post/76629442596/jeremy-jackson-how-we-wrecked-the-ocean-this "Dr. Jeremeny Jackson: Ocean Apocalypse"
+  [Brazier]: http://balupton.tumblr.com/post/64769601126/find-your-athletic-edge-brendan-brazier-at "TEDxFremont: Brendan Brazier: Find Your Athletic Edge"
+  [PlantStrong]: http://youtu.be/AAkEYcmCCCk?t=6m26s "TEDxFremont: Rip Esselstyn: Plant-Strong & Healthy Living"
+  [DietWars]: http://balupton.tumblr.com/post/80346233429/john-mcdougall-md-the-diet-wars-the-best "Dr. John McDougall: The Diet Wars"
+  [Uproot]: http://balupton.tumblr.com/post/79549201711/uprooting-the-leading-causes-of-death-a "Dr. Michael Greger: Uprooting the Leading Causes of Death"
+
+<!-- Movies -->
+
+  [MoreThanHoney]: http://buy.morethanhoneyfilm.com/ "Beekeepers, scientists and others discuss the world's declining bee population and what it may mean for modern society."
   [Lucent]: https://aussiefarms.org.au/pigs/lucent "Lucent is a feature-length documentary about the vast yet largely unseen suffering inherent to Australia's pig farming industry."
-  [AussieFarms]: http://www.aussiefarms.org.au/ "The Aussie Farms Initiative: Fighting to end commercialised animal abuse and exploitation in Australia"
   [MakingTheConnection]: https://vimeo.com/15849273 "Making the Connection presents the benefits of a plant based diet in a contemporary and upbeat style."
   [FatSickNearlyDead]: https://www.youtube.com/watch?v=-XDSpuMIMPs&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&index=39 "Fat Sick Nearly Dead: Morbidly obese and stricken with an autoimmune disease, a man endeavors to drink only fruit and vegetable juice for 60 days in an effort to lose weight and reclaim his health."
   [Speciesism]: http://speciesismthemovie.com/ "Speciesism: The Movie. You'll never look at animals the same way again. Especially humans."
+  [FruitsOfFaith]: http://asianwiki.com/Fruits_of_Faith "Fruits of Faith: The story of organic apples"
+  [Speciesism]: http://speciesismthemovie.com/ "Speciesism, The Movie"
+
+  [FoodInc]: http://balupton.tumblr.com/post/76721042870/the-documentary-food-inc-is-the-best-resource "Documentary: Food Inc."
+  [LiveExport]: http://balupton.tumblr.com/post/64768987175/stories-from-indonesia-live-export-investigation "Stories from Indonesia: Live Export Investigation"
+  [Cowspiracy]: http://balupton.tumblr.com/post/95691448965/cowspiracy-the-sustainability-secret "Documentary: Cowspiracy: The Sustainability Secret"
+  [Forks]: http://balupton.tumblr.com/post/64770516539/forks-over-knives-documentary "Documentary: Forks Over Knives"
+  [Earthlings]: http://balupton.tumblr.com/post/64768876126/earthlings-full-length-documentary "Documentary: Earthlings"
+  
+  [AnInconvenientTruth]: http://www.imdb.com/title/tt0497116/ "A documentary on Al Gore's campaign to make the issue of global warming a recognized problem worldwide."
+  [AtTheEdgeOfTheWorld]: http://www.imdb.com/title/tt1286499/ "At the Edge of the World chronicles the controversial Sea Shepherd Antarctic Campaign against a Japanese whaling fleet"
+  [Baraka]: http://www.imdb.com/title/tt0103767/ "A collection of expertly photographed scenes of human life and religion."
+  [Samsara]: http://www.imdb.com/title/tt0770802/ "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and natural wonders."
+  [ChasingIce]: http://www.imdb.com/title/tt1579361/ "Follow National Geographic photographer James Balog across the Arctic as he deploys time-lapse cameras designed for one purpose: to capture a multi-year record of the world's changing glaciers."
+  [FoodInc]: http://www.imdb.com/title/tt1286537/ "An unflattering look inside America's corporate controlled food industry."
+  [FoodMatters]: http://www.imdb.com/title/tt1528734/ "Food Matter examines how the food we eat can help or hurt our health. Nutritionists, naturopaths, doctors, and journalists weigh in on topics organic food, food safety, raw foodism, and nutritional therapy."
+  [GasLand]: http://www.imdb.com/title/tt1558250/ "When Josh Fox receives a $100,000 offer from a natural gas company interested in exploring in his land in Pennsylvania's Delaware River Basin, he decides to do his own research on drilling and the process known as fracking."
+  [HungryForChange]: http://www.imdb.com/title/tt2323551/ "HUNGRY FOR CHANGE exposes shocking secrets the diet, weight loss and food industries don't want you to know about deceptive strategies designed to keep you coming back for more."
+  [Sharkwater]: http://www.imdb.com/title/tt0856008/ "Driven by passion fed from a life-long fascination with sharks, Stewart debunks historical stereotypes and media depictions of sharks as bloodthirsty, man-eating monsters and reveals the reality of sharks as pillars in the evolution of the seas. "
+  [SuperSizeMe]: http://www.imdb.com/title/tt0390521/ "While examining the influence of the fast food industry, Morgan Spurlock personally explores the consequences on his health of a diet of solely McDonald's food for one month."
+  [TheAgeOfStupid]: http://www.imdb.com/title/tt1300563/ "A future archivist looks at old footage from the year 2008 to understand why humankind failed to address climate change."
+  [TheCove]: http://www.imdb.com/title/tt1313104/ "Using state-of-the-art equipment, a group of activists, led by renowned dolphin trainer Ric O'Barry, infiltrate a cove near Taijii, Japan to expose both a shocking instance of animal abuse and a serious threat to human health."
+  [TheLastOcean]: http://www.imdb.com/title/tt2298780/ "The race to protect Earth's last untouched ocean, the Ross Sea Antarctica, from our insatiable appetite for fish. The film raises the simple ethical question: do we fish the last ocean or do we protect it?"
+  [VanishingOfTheBees]: http://www.imdb.com/title/tt1521877/ "This documentary takes a piercing investigative look at the economic, political and ecological implications of the worldwide disappearance of the honeybee. "
