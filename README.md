@@ -204,6 +204,7 @@ Plus there is no need for anyone to process their plant nutrients through an ani
 - [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison][ChinaStudy] — [doubtful? read the praise section][ChinaStudyPraise]
 - [Watch the "Food Inc." documentary to see the contamination][FoodInc]
 - [Break the misconception about vegan athletes by seeing their results for yourself][VeganAthletes]
+- [Like dairy? Learn why it's killing you! NotMilk.com][NotMilk]
 
 
 ### Seafood (including Fish and Krill Oils)
@@ -422,7 +423,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [WikiHoney]: http://www.wikiwand.com/en/Honey#/Health_effects "Honey Health Effects"
   [MeatExpensive]: http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/ "10 Things I Wish All Americans Knew About The Meat and Dairy Industries"
   [Facts]: http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos "Nutrition Facts"
-
+  [NotMilk]: http://notmilk.com/ "Definitive collection of data against dairy"
 
 <!-- Listings -->
 
