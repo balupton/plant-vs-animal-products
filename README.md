@@ -13,11 +13,6 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 
 
-
-
-
-u
-
 ## Contents
 
 1. [Initiation](#initiation)
