@@ -38,10 +38,10 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 1. [Cowspiracy][Cowspiracy] (paid)
 1. [Forks Over Knives][Forks] (paid)
 1. [Fat Sick Nearly Dead][FatSickNearlyDead] (free)
-1. [Dr. John McDougal's "The Diet Wars"][DietWars]
+1. [Dr. John McDougal: The Diet Wars][DietWars] (free)
 1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals] (free)
-1. [Animals Australia's "Stories from Indonesia - Live Export Investigation"][LiveExport] (free)
-1. [Gary Yourofsky's "The Greatest Talk You'll Ever Hear"][GaryTalk] (free)
+1. [Animals Australia: Stories from Indonesia - Live Export Investigation][LiveExport] (free)
+1. [Gary Yourofsky: The Greatest Talk You'll Ever Hear][GaryTalk] (free)
 1. [Earthlings][Earthlings] (free)
 1. [Dr. Melanie Joy on Carnism: The Psychology of Eating Meat][Carnism] (free)
 1. [Speciesism][Speciesism] (paid)
