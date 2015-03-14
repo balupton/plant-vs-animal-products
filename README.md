@@ -16,7 +16,7 @@ This listing/comparison aims to be an argument proof factual listing of things g
 
 
 
-
+u
 
 ## Contents
 
@@ -39,6 +39,7 @@ If you'd prefer a more immersive initiation to a plant-based lifestyle, rather t
 1. [Forks Over Knives][Forks] (paid)
 1. [Fat Sick Nearly Dead][FatSickNearlyDead] (free)
 1. [Dr. John McDougal: The Diet Wars][DietWars] (free)
+1. [Uprooting the Leading Causes of Death][Uproot] (free)
 1. [Why Vegan? Lessons From An Animal Scientist][SmartAnimals] (free)
 1. [Animals Australia: Stories from Indonesia - Live Export Investigation][LiveExport] (free)
 1. [Gary Yourofsky: The Greatest Talk You'll Ever Hear][GaryTalk] (free)
