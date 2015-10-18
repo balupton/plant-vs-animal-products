@@ -232,6 +232,11 @@ The health claims of bee products are just that, claims, made by the industry to
 - [Wikipedia on honey's negligible health effects and it's significant dangers][WikiHoney]
 
 
+### Sport / Athleticism
+
+- [Vegan diet is better for sport, faster recovery times as well as fulfilling energy requirements][FindYourAthleticEdge]
+
+
 
 
 
@@ -498,3 +503,5 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [TheCove]: http://www.imdb.com/title/tt1313104/ "Using state-of-the-art equipment, a group of activists, led by renowned dolphin trainer Ric O'Barry, infiltrate a cove near Taijii, Japan to expose both a shocking instance of animal abuse and a serious threat to human health."
   [TheLastOcean]: http://www.imdb.com/title/tt2298780/ "The race to protect Earth's last untouched ocean, the Ross Sea Antarctica, from our insatiable appetite for fish. The film raises the simple ethical question: do we fish the last ocean or do we protect it?"
   [VanishingOfTheBees]: http://www.imdb.com/title/tt1521877/ "This documentary takes a piercing investigative look at the economic, political and ecological implications of the worldwide disappearance of the honeybee. "
+  
+  [FindYourAthleticEdge]:https://www.youtube.com/watch?v=Jqpjap8rewo "Former Ironman Brendan Brazier believes that excellent nutrition is the key factor in building and maintaining a highly competitive athletic edge, concluding that not only does a vegan diet provide enough nutirition, but it is better as it speeds up recovery."
