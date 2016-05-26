@@ -193,7 +193,7 @@ I make a point these days of licking my plates, and watching people's eyes go wi
 ### Animal Products (Meat, Dairy, Fish, etc)
 The raising of animals involves a whole lot of feces, infections, and tumors. Heck, if an animal has cancer or an infection, they'll just cut out the tumorous part and feed you the rest — if they notice it that is. Not only that, but the poor conditions in slaughter houses leads to contamination of the meat with virus ridden feces. So much so, that the average hamburger meat, including that of McDonalds, is mostly ammonium filler used to kill bacteria, with the actual meat being less that 20%, in some cases only 8% or less. There's a reason why people refer to hamburger patties as cardboard... but cardboard is much more complimentary than the reality. Finally, a piece of processed animal product actually contains parts of typically thousands of other animals, and if one of those thousand are infected, then your mouthful is too. E. Coli, a virus that is now rampant in the USA, can kill you within 3 days.
 
-But what about even the best of conditions? Well, much to people's dismay, it is now proven that animal products cause 15/16 of the leading causes of death, that animal protein is toxic to the body, and that the only way you get non-trivial amounts of cholesterol is from animal products — this is regardless of where you get the meat, even if it's organic grass-fed etc, it is still toxic animal protein, bacteria and cholesterol, that doesn't change, no matter the source — it's the ingredients that's the problem, not the source!
+But what about even the best of conditions? Well, much to people's dismay, it is now proven that animal products cause 15/16 of the leading causes of death, that animal protein is toxic to the body, that meats cause cancer, and that the only way you get non-trivial amounts of cholesterol is from animal products — this is regardless of where you get the meat, even if it's organic grass-fed etc, it is still toxic animal protein, bacteria and cholesterol, that doesn't change, no matter the source — it's the ingredients that's the problem, not the source!
 
 Plus there is no need for anyone to process their plant nutrients through an animal, they can just eat the plants directly and get a dramatic advantage! Animal products, are processed foods! But where do I get my protein from? From the same place where the animals their protein from! The plants!
 
@@ -203,6 +203,7 @@ Plus there is no need for anyone to process their plant nutrients through an ani
 - [Watch the "Food Inc." documentary to see the contamination][FoodInc]
 - [Break the misconception about vegan athletes by seeing their results for yourself][VeganAthletes]
 - [Like dairy? Learn why it's killing you! NotMilk.com][NotMilk]
+- [Read the World Health Organisation's actual report on Red and Processed Meats](http://www.iarc.fr/en/media-centre/pr/2015/pdfs/pr240_E.pdf)
 
 
 ### Seafood (including Fish and Krill Oils)
