@@ -203,7 +203,7 @@ Plus there is no need for anyone to process their plant nutrients through an ani
 - [Watch the "Food Inc." documentary to see the contamination][FoodInc]
 - [Break the misconception about vegan athletes by seeing their results for yourself][VeganAthletes]
 - [Like dairy? Learn why it's killing you! NotMilk.com][NotMilk]
-- [Read the World Health Organisation's actual report on Red and Processed Meats](http://www.iarc.fr/en/media-centre/pr/2015/pdfs/pr240_E.pdf)
+- [Read the World Health Organisation's actual report on Red and Processed Meats][WHO]
 
 
 ### Seafood (including Fish and Krill Oils)
@@ -428,6 +428,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [MeatExpensive]: http://meatonomics.com/2013/09/28/10-things-i-wish-all-americans-knew-about-the-meat-dairy-industries/ "10 Things I Wish All Americans Knew About The Meat and Dairy Industries"
   [Facts]: http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos "Nutrition Facts"
   [NotMilk]: http://notmilk.com/ "Definitive collection of data against dairy"
+  [WHO]: http://www.iarc.fr/en/media-centre/pr/2015/pdfs/pr240_E.pdf "World Health Organisation on Red and Processed Meats"
 
 <!-- Listings -->
 
@@ -476,7 +477,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
 <!-- Movies -->
 
   [MoreThanHoney]: http://buy.morethanhoneyfilm.com/ "Beekeepers, scientists and others discuss the world's declining bee population and what it may mean for modern society."
-  [Lucent]: https://aussiefarms.org.au/pigs/lucent "Lucent is a feature-length documentary about the vast yet largely unseen suffering inherent to Australia's pig farming industry."
+  [Lucent]: http://www.aussiepigs.com/lucent "Lucent is a feature-length documentary about the vast yet largely unseen suffering inherent to Australia's pig farming industry."
   [MakingTheConnection]: https://vimeo.com/15849273 "Making the Connection presents the benefits of a plant based diet in a contemporary and upbeat style."
   [FatSickNearlyDead]: https://www.youtube.com/watch?v=-XDSpuMIMPs&list=PLYVl5EnzwqsQGBXiryVhpPotbjcIty782&index=39 "Fat Sick Nearly Dead: Morbidly obese and stricken with an autoimmune disease, a man endeavors to drink only fruit and vegetable juice for 60 days in an effort to lose weight and reclaim his health."
   [Speciesism]: http://speciesismthemovie.com/ "Speciesism: The Movie. You'll never look at animals the same way again. Especially humans."
