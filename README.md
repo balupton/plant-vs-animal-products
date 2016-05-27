@@ -202,7 +202,7 @@ Plus there is no need for anyone to process their plant nutrients through an ani
 - [Read the "China Study", the most definitive health study ever conducted to remove all doubt about how animal protein is poison][ChinaStudy] — [doubtful? read the praise section][ChinaStudyPraise]
 - [Watch the "Food Inc." documentary to see the contamination][FoodInc]
 - [Break the misconception about vegan athletes by seeing their results for yourself][VeganAthletes]
-- [Like dairy? Learn why it's killing you! NotMilk.com][NotMilk]
+- [Like data, learn what the scientific literature says][NutritionFacts], [Cancer][NutritionFactsCancer], [Dairy][NutritionFactsDairy], [Eggs][NutritionFactsEggs], [More Dairy][NotMilk]
 - [Read the World Health Organisation's actual report on Red and Processed Meats][WHO]
 
 
@@ -429,6 +429,10 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [Facts]: http://balupton.tumblr.com/post/80567208929/nutrition-facts-videos "Nutrition Facts"
   [NotMilk]: http://notmilk.com/ "Definitive collection of data against dairy"
   [WHO]: http://www.iarc.fr/en/media-centre/pr/2015/pdfs/pr240_E.pdf "World Health Organisation on Red and Processed Meats"
+  [NutritionFacts]: http://nutritionfacts.org "NutritionFacts.org reviews what the scientific literature says"
+  [NutritionFactsDairy]: http://nutritionfacts.org/topics/dairy/ "NutritionFacts.org reviews what the scientific literature says"
+  [NutritionFactsCancer]: http://nutritionfacts.org/topics/cancer "NutritionFacts.org reviews what the scientific literature says"
+  [NutritionFactsEggs]: http://nutritionfacts.org/topics/eggs "NutritionFacts.org reviews what the scientific literature says"
 
 <!-- Listings -->
 
