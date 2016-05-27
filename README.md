@@ -378,7 +378,7 @@ Living a plant-based lifestyle is the only sustainable lifestyle there is (of vi
 
 ### Recipes
 - [Mouth Watering Vegan](MouthWateringVegan): Lots of amazing vegan food recipes
-- [Raw Vegan Recipes on Pinterest][PinRawVegan]: Crowd-sourced vegan recipes (note, as it is crowd-sourced and not curated, some may not be vegan, check the ingrediants and remember to be ecological, eathical, and healthy!)
+- [Raw Vegan Recipes on Pinterest][PinRawVegan]: Crowd-sourced vegan recipes (note, as it is crowd-sourced and not curated, some may not be vegan, check the ingrediants and remember to be ecological, ethical, and healthy!)
 
 ### Weening
 - [Frys Vegetarian][Frys]: South African company offering mock meats internationally
