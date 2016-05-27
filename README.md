@@ -411,7 +411,7 @@ Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissi
   [VeganAthletes]: http://balupton.tumblr.com/post/80799570407/great-vegan-athletes
   [PlantOil]: http://balupton.tumblr.com/post/64770655985/humans-turn-ala-udo-oil-to-epa-dha-fish-oil-faq
   [ChinaStudy]: http://balupton.tumblr.com/post/64770587806/the-china-study-book "Dr. Colin Campbell: The China Study"
-  [ChinaStudyPraise]: http://www.thechinastudy.com/the-china-study/praise/ "Praise for The China Study"
+  [ChinaStudyPraise]: https://web.archive.org/web/20150210063403/http://www.thechinastudy.com/the-china-study/praise/ "Praise for The China Study"
   [Fish]: http://www.animalsaustralia.org/factsheets/fish_crustaceans.php "Animals Australia: Fish & Crustaceans Fact Sheet"
   [MaleChicks]: http://h.lupton.cc/post/58052411547/if-it-cant-lay-eggs-it-isnt-profitable-to-the "The Fate of Male Chicks"
   [CheeseCruelty]: http://h.lupton.cc/post/60620960196/i-couldnt-give-up-cheese-so-i-gave-up-animal-cruelty "If you can't give up cheese, then give up cruelty instead"
